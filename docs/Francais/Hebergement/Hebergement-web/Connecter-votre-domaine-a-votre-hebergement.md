@@ -15,5 +15,3 @@ Vous pouvez également entrer un CNAME de votre domaine vers le "Nom du serveur"
 Si vous avez besoin d'enregistrements IPV6 (AAAA), vous pouvez nous contacter et nous vous fournirons l'IPV6 de votre machine.
 
 Le moyen le plus simple de résoudre ce problème est de nous contacter ; vous pouvez le faire à tout moment.
-
-Traduit avec www.DeepL.com/Translator (version gratuite)
