@@ -55,7 +55,7 @@ Ensuite remplissez les informations comme ici.
 ![](https://i.imgur.com/f8JjwVT.png)
 
 Appuyer sur Save, et voilà vous êtes connecté à votre service S3.
-![https://i.imgur.com/72kHUf4.png]
+![](https://i.imgur.com/72kHUf4.png)
 
 Pour ajouter un fichier ou un dossier il vous suffit de le slider dans la fenêtre.
 
