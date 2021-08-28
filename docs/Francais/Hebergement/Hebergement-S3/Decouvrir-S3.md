@@ -34,7 +34,7 @@ C'est rassurant, vous n'aurez plus peur de perdre vos données.
 
 Il y a bien d'autres raison mais nous vous laissons les découvrir par vous-même.
 
-## Pourquoi S3 est moins cher?
+## Pourquoi S3 est moins cher
 
 Il y a plusieurs facteurs qui rentrent en compte. 
 Le premier est que vous payez uniquement ce dont vous avez besoin. Vous n'avez donc pas besoin de planifier ou payer pour une "future" utilisation.
@@ -43,7 +43,7 @@ Le troisième c'est que dans le futur vous ne devrez pas racheter du matériel, 
 
 Et finalement le prix par TB est même moins cher au final! 
 
-## Comment utiliser S3 de manière simple.
+## Comment utiliser S3 de manière simple
 
 Pour vous connecter à votre premier service S3 nous vous recommandons d'utiliser https://s3browser.com/.
 Ce logiciel est très simple d'utilisation. 
