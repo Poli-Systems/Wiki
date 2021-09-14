@@ -30,7 +30,8 @@ Once Hyper Backup is open, simply click on "+" in the upper left corner.
 Then click on "Data backup task".
 ![](https://i.imgur.com/rUKj76u.png)
 Then simply select S3 Storage from the list.
-![](https://i.imgur.com/QbpYEkK.png)
+
+![](https://i.imgur.com/oFrO2ke.png)
 
 #### Fill in your S3 information
 You are not far from being done. 
