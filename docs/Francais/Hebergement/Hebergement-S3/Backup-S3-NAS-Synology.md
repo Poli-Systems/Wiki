@@ -10,7 +10,7 @@ Cet article se réfère sur DSM 7.0 en utilisant un NAS Synology 1821+.
 ## Commander votre stockage S3
 
 En  premier  il  vous  faut  calculer  votre  espace  de  stockage  S3 nécessaire.
-Vous pouvez choisir un plan S3 sur notre site ici : https://polisystems.ch/fr/s3
+Vous pouvez choisir un plan S3 sur notre site ici : [https://polisystems.ch/fr/s3](https://polisystems.ch/fr/s3)
 
 Contrôler correctement l'espace de stockage dont vous avez besoin pour vos backups.
 
