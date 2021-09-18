@@ -40,8 +40,8 @@ Here you only need to enter your S3 information (available in your personal Poli
 ![](https://i.imgur.com/brIOHIa.png)
 
  - Server address : s3.polisystems.ch
- - Signature Version : V4 ou V2
- - Request Style : Type Chemin
+ - Signature Version : V4 or V2
+ - Request Style : Path-Style
  - Access Key : Your S3 access key
  - Secret Key : Your S3 secret key
  - Bucket name : Either default or create a new bucket just for your Synology
