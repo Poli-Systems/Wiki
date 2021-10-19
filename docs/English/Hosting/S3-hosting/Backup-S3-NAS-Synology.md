@@ -10,7 +10,7 @@ This article refers to DSM 7.0 using a Synology 1821+ NAS.
 ## Ordering your S3 storage
 
 First you need to calculate your required S3 storage space.
-You can choose an S3 plan on our site here: [https://polisystems.ch/fr/s3](https://polisystems.ch/fr/s3)
+You can choose an S3 plan on our site here: [https://polisystems.ch/en/s3](https://polisystems.ch/en/s3)
 
 Check correctly the storage space you need for your backups.
 
