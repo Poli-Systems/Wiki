@@ -1,4 +1,4 @@
-# Authentification à deux facteurs sur le Poli Systems Portal
+# Authentification à deux facteurs sur le Portal
 
 ## Qu'est-ce que l'A2F ?
 
@@ -29,33 +29,43 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 -   [Duo](https://apps.apple.com/us/app/duo-mobile/id422663827)
 -   [Bitwarden](https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744)
 
-## Activer l'A2F sur votre compte Poli Systems Portal
+## Activer l'A2F sur le Portal
 
 1. [Connectez-vous à votre compte Poli Systems Portal](https://portal.polisystems.ch/index.php?rp=/login)
-2.En haut à droite de votre écran **sélectionnez l'icône en forme de personne** > **Paramètres de sécurité**.
- ![Paramètres de sécurité](https://i.imgur.com/ilkhjrX.png)
+
+2. En haut à droite de votre écran **sélectionnez l'icône en forme de personne** > **Paramètres de sécurité**.
+
+ ![Paramètres de sécurité](https://i.imgur.com/ilkhjrX.png)   
 3. Dans le panneau Paramètres de sécurité, cliquez sur **Cliquez ici pour activer**.
- ![Activer A2F](https://i.imgur.com/bNk41lG.png)
+
+ ![Activer A2F](https://i.imgur.com/bNk41lG.png)   
 4. Dans la section "Jetons temporels", cliquez sur **Commencer >>**. 
- ![Jetons temporels](https://i.imgur.com/qDCs5nu.png)
+
+ ![Jetons temporels](https://i.imgur.com/qDCs5nu.png)  
 5. Une fois que vous êtes ici, scannez simplement le code QR dans votre application préférée ou entrez le code manuellement.  Une fois que vous l'avez fait, entrez le code d'identification temporaire que vous avez obtenu dans l'application dans le champ "Entrer le code d'authentification" dans la zone de texte ci-dessous.  Appuyez simplement sur **Envoyer** une fois que c'est fait. 
 *Note : Si vous voulez vous authentifier à partir de plusieurs appareils, vous devez scanner le code QR avec chaque appareil que vous voulez utiliser.*
- ![QR Code pour Authy, Google Authentifcator, et applications 2AF](https://i.imgur.com/ppuWN50.png)
-7. Votre connexion A2F devrait maintenant être prête ! N'oubliez pas de conserver votre code de sauvegarde au cas où vous perdriez l'accès à votre téléphone portable. Il est préférable de le sauvegarder sur un papier pour une sécurité maximale. 
- ![A2F authentification activée codes de backups](https://i.imgur.com/ytu4yAQ.png)
-8. Pour vous connecter à l'aide de l'authentification à deux facteurs, il vous suffit de vous rendre sur la page de connexion, de saisir vos informations d'identification et d'appuyer sur la touche de connexion. Et lorsque vous obtenez une page d'authentification à deux facteurs, entrez le code d'authentification de votre application.
- ![Page de connexion](https://i.imgur.com/AoTrNr0.png)
- ![A2F login](https://i.imgur.com/Zr7G9Dx.png)
 
+ ![QR Code pour Authy, Google Authentifcator, et applications 2AF](https://i.imgur.com/ppuWN50.png)   
+6. Votre connexion A2F devrait maintenant être prête ! N'oubliez pas de conserver votre code de sauvegarde au cas où vous perdriez l'accès à votre téléphone portable. Il est préférable de le sauvegarder sur un papier pour une sécurité maximale. 
 
-## Désactiver A2F sur votre compte portail Poli Systems
+ ![A2F authentification activée codes de backups](https://i.imgur.com/ytu4yAQ.png)  
+7. Pour vous connecter à l'aide de l'authentification à deux facteurs, il vous suffit de vous rendre sur la page de connexion, de saisir vos informations d'identification et d'appuyer sur la touche de connexion. Et lorsque vous obtenez une page d'authentification à deux facteurs, entrez le code d'authentification de votre application.
+
+ ![Page de connexion](https://i.imgur.com/AoTrNr0.png)  
+ ![A2F login](https://i.imgur.com/Zr7G9Dx.png)  
+
+## Désactiver A2F sur le Portal
 
 1. Retournez à la page "Paramètres de sécurité" comme mentionné dans les étapes 1 et 2 de "Activer le A2F sur votre compte du portail Poli Systems".
+
 2. Appuyez sur le gros bouton rouge **Cliquez ici pour désactiver**.
- ![Button de désactivation de A2F](https://i.imgur.com/QE31oBK.png)
+
+ ![Button de désactivation de A2F](https://i.imgur.com/QE31oBK.png)  
 3. Entrez votre mot de passe pour désactiver 2FA et appuyez sur **Disable Two-Factor Authentification**.
- ![Désactiver l'authentification à deux facteurs](https://i.imgur.com/lo1qjcy.png)
+
+ ![Désactiver l'authentification à deux facteurs](https://i.imgur.com/lo1qjcy.png)  
 4. Une fois que vous avez désactivé l'authentification à deux facteurs, vous devriez avoir le message suivant.
+
  ![Authentification à deux facteurs désactivée](https://i.imgur.com/OudypOW.png)
 
 ## Conclusions
