@@ -12,7 +12,7 @@ La première solution, et la plus simple, consiste à le choisir lors de votre c
 La deuxième façon est une fois que vous êtes connecté. Faites défiler la page vers le bas et vous verrez une boîte de sélection de la langue.
 Il est possible qu'il soit nécessaire de sélectionner la langue à nouveau après la connexion comme expliqué ci-dessous.
  
-![](https://i.imgur.com/O0YG6ie.png)
+![](https://i.imgur.com/ZneOCq0.png)
 
 ## Plesk (ancien panneau de contrôle)
 
