@@ -43,10 +43,10 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 
  ![Jetons temporels](https://i.imgur.com/qDCs5nu.png)  
 5. Une fois que vous êtes ici, scannez simplement le code QR dans votre application préférée ou entrez le code manuellement.  Une fois que vous l'avez fait, entrez le code d'identification temporaire que vous avez obtenu dans l'application dans le champ "Entrer le code d'authentification" dans la zone de texte ci-dessous.  Appuyez simplement sur **Envoyer** une fois que c'est fait. 
-*Note : Si vous voulez vous authentifier à partir de plusieurs appareils, vous devez scanner le code QR avec chaque appareil que vous voulez utiliser.*
+*Note : Si vous voulez vous authentifier à partir de plusieurs appareils, vous devez scanner le code QR avec chaque appareil que vous voulez utiliserez.*
 
  ![QR Code pour Authy, Google Authentifcator, et applications 2AF](https://i.imgur.com/ppuWN50.png)   
-6. Votre connexion A2F devrait maintenant être prête ! N'oubliez pas de conserver votre code de sauvegarde au cas où vous perdriez l'accès à votre téléphone portable. Il est préférable de le sauvegarder sur un papier pour une sécurité maximale. 
+6. Votre connexion A2F devrait maintenant être prête ! N'oubliez pas de conserver votre code de sauvegarde au cas où vous perdriez l'accès à votre téléphone portable. Il est préférable de le mettre sur papier pour une sécurité maximale. 
 
  ![A2F authentification activée codes de backups](https://i.imgur.com/ytu4yAQ.png)  
 7. Pour vous connecter à l'aide de l'authentification à deux facteurs, il vous suffit de vous rendre sur la page de connexion, de saisir vos informations d'identification et d'appuyer sur la touche de connexion. Et lorsque vous obtenez une page d'authentification à deux facteurs, entrez le code d'authentification de votre application.
