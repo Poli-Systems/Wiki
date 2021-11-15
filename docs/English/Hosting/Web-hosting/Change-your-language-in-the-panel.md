@@ -3,7 +3,7 @@
 If you want to change your panel language between French and English, you can do it in 2 different ways.
 If you are still using the "old" plesk panel please scroll down below.
 
-##DirectAdmin (New panel since 2021)
+## DirectAdmin (New panel since 2021)
 
 The first one and the easiest way is to choose it when you log in:  
  
@@ -16,7 +16,7 @@ Scroll down at the bottom of the page you have a language selection box.
 ![](https://i.imgur.com/udhjHYv.png)
 
 
-##Plesk (Old panel)
+## Plesk (Old panel)
 
 The first one and the easiest way is to choose it when you log in:  
  
