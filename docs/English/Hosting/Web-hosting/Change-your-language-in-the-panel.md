@@ -12,6 +12,7 @@ The first one and the easiest way is to choose it when you log in:
 
 The second way is once your are logged in.
 Scroll down at the bottom of the page you have a language selection box.
+It may be necessary to select the language again after login as explained below.
 
 ![](https://i.imgur.com/udhjHYv.png)
 
