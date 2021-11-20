@@ -1,17 +1,54 @@
-# Connect your domain if it's not connected to your Webhosting package.
+# Connect your domain to your hosting
 
-If you ordered a domain from us, and it's not connected. You can or contact us or configure it your self.
+When you order a new web hosting, it is very likely that it is not yet connected to your web hosting.
+There are several ways to do this, we will present the easiest ways to do this.
+If you wish, you can also contact our support and we will gladly help you.
 
-It usually connects automatically. If it's not the case, go in your client area > manage your domain > DNS management.
+Our DNS servers for web hosting are the following:
 
-Once you are in DNS management, you can add an A record or a CNAME.  
- 
+**ns1.polisystems.ch**  
+**ns2.polisystems.ch**  
+**ns3.polisystems.ch**  
 
-For the A record, you can enter your domain (test.com), and as IP you can get it in the "New account information" mail your received when you got you bought your Webhosting package.
+## Change your NS records
 
-You can also enter a CNAME from your domain to the "Server Name" you received in the mail as well.  
- 
+Nothing could be easier!
+To do this, manage your domain.
+In our case, we will show it on a domain hosted by us, but know that the procedure is very often similar with other domain providers.
 
-If you need IPV6 (AAAA) records you can contact us we will provide you with the IPV6 of your machine.
+In your Poli Systems client interface (https://portal.polisystems.ch/clientarea) simply click on "My Domains".
 
-The easiest way to fix this issue is to contact us; you can do it anytime.
+![](https://i.imgur.com/puIRfDm.png)
+
+Then simply click on the concerned domain which should be hosted by us.
+
+![](https://i.imgur.com/CgAtbew.png)
+
+When you are here choose "Nameservers" from the menu on the right.
+
+![](https://i.imgur.com/IbEn945.png)
+
+Now choose "Use custom nameservers" and enter the following names:
+
+**ns1.polisystems.ch**  
+**ns2.polisystems.ch**  
+**ns3.polisystems.ch**  
+
+Don't forget to press "Change Nameservers"
+
+![](https://i.imgur.com/BhlmnPh.png)
+
+## Change your records manually
+
+On your web server (which you can easily access from the client interface) you have a "DNS Management" button
+
+![](https://i.imgur.com/rB9s9fi.png)
+
+Vous trouverez ici tous les enregistrements nécessaires à mettre dans votre DNS (qu'il soit gérer par nous ou non).
+
+![](https://i.imgur.com/mY7yudq.png)
+
+
+## Propagation
+
+DNS records can take up to 48 hours to propagate so be patient! Normally it's pretty fast, but if not, just wait and it will happen.
