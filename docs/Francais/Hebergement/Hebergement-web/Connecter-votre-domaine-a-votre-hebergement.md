@@ -14,7 +14,7 @@ Nos serveurs DNS pour les hébergements web sont les suivants :
 
 Rien de plus simple !
 Pour ce faire, gérer votre domaine.
-Dans notre cas, nous allons le montrer sur un domaine hébergé chez nous, mais sachez que la procédure est très souvent similaire.
+Dans notre cas, nous allons le montrer sur un domaine hébergé chez nous, mais sachez que la procédure est très souvent similaire chez les autres services de domaines.
 
 Dans votre interface client Poli Systems (https://portal.polisystems.ch/clientarea) cliquer simplement sur "Mes Domaines"
 
@@ -34,8 +34,9 @@ Maintenant, choisissez "Utiliser des serveurs de noms personnalisés" et entrer 
 **ns2.polisystems.ch**  
 **ns3.polisystems.ch**  
 
+N'oubliez pas d'appuyer sur "Changer les serveurs DNS".
 
-![](https://i.imgur.com/hsKEpGU.png)
+![](https://i.imgur.com/qxOOwJ0.png)
 
 ## Changer vos enregistrements manuellement
 
