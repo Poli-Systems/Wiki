@@ -18,15 +18,15 @@ Dans notre cas, nous allons le montrer sur un domaine hébergé chez nous, mais 
 
 Dans votre interface client Poli Systems (https://portal.polisystems.ch/clientarea) cliquer simplement sur "Mes Domaines"
 
-!()[https://i.imgur.com/GoVP9Dj.png]
+![](https://i.imgur.com/GoVP9Dj.png)
 
 Cliquer ensuite simplement sur le domaine concerné qui doit être hébergé chez nous.
 
-!()[https://i.imgur.com/mWPBtpi.png]
+![](https://i.imgur.com/mWPBtpi.png)
 
 Lorsque vous êtes ici choisissez "Serveur DNS" dans le menu à droite.
 
-!()[https://i.imgur.com/vEbIrn3.png]
+![](https://i.imgur.com/vEbIrn3.png)
 
 Maintenant, choisissez "Utiliser des serveurs de noms personnalisés" et entrer les noms suivants :
 
@@ -34,17 +34,17 @@ ns1.polisystems.ch
 ns2.polisystems.ch
 ns3.polisystems.ch
 
-!()[https://i.imgur.com/hsKEpGU.png]
+![](https://i.imgur.com/hsKEpGU.png)
 
 ## Changer vos enregistrements manuellement
 
 Sur votre serveur Web (que vous pouvez facilement accéder depuis l'interface client) vous avez un bouton "Gestion DNS"
 
-!()[https://i.imgur.com/IfwI0Fr.png]
+![](https://i.imgur.com/IfwI0Fr.png)
 
 Vous trouverez ici tous les enregistrements nécessaires à mettre dans votre DNS (qu'il soit gérer par nous ou non).
 
-!()[https://i.imgur.com/FITpiOj.png]
+![](https://i.imgur.com/FITpiOj.png)
 
 
 ## Propagation
