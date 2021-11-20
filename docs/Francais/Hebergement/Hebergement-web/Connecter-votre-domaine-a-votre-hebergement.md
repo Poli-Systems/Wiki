@@ -1,17 +1,52 @@
 # Connectez votre domaine à votre hébergement
 
-Si vous avez commandé un domaine chez nous, et qu'il n'est pas connecté. Vous pouvez nous contacter ou le configurer vous-même.
+Lorsque vous commandez un nouvel hébergement web, il est très probable que celui-ci ne soit pas encore connecté à votre hébergement Web.
+Pour ce faire, il y a plusieurs moyens nous allons présenter les moyens les plus simples pour le faire.
+Si vous le souhaitez, vous pouvez également contacter notre support et nous vous aiderons avec plaisir.
 
-En général, il se connecte automatiquement. Si ce n'est pas le cas, allez dans votre espace client > gérer votre domaine > gestion des DNS.
+Nos serveurs DNS pour les hébergements web sont les suivants :
 
-Une fois que vous êtes dans la gestion des DNS, vous pouvez ajouter un enregistrement A ou un CNAME.  
- 
+ns1.polisystems.ch
+ns2.polisystems.ch
+ns3.polisystems.ch
 
-Pour l'enregistrement A, vous pouvez entrer votre domaine (test.com), et comme IP vous pouvez l'obtenir dans le mail "New account information" que vous avez reçu lorsque vous avez acheté votre pack d'hébergement Web.
+## Changer vos enregistrements NS
 
-Vous pouvez également entrer un CNAME de votre domaine vers le "Nom du serveur" que vous avez reçu dans le courrier.  
- 
+Rien de plus simple !
+Pour ce faire, gérer votre domaine.
+Dans notre cas, nous allons le montrer sur un domaine hébergé chez nous, mais sachez que la procédure est très souvent similaire.
 
-Si vous avez besoin d'enregistrements IPV6 (AAAA), vous pouvez nous contacter et nous vous fournirons l'IPV6 de votre machine.
+Dans votre interface client Poli Systems (https://portal.polisystems.ch/clientarea) cliquer simplement sur "Mes Domaines"
 
-Le moyen le plus simple de résoudre ce problème est de nous contacter ; vous pouvez le faire à tout moment.
+!()[https://i.imgur.com/GoVP9Dj.png]
+
+Cliquer ensuite simplement sur le domaine concerné qui doit être hébergé chez nous.
+
+!()[https://i.imgur.com/mWPBtpi.png]
+
+Lorsque vous êtes ici choisissez "Serveur DNS" dans le menu à droite.
+
+!()[https://i.imgur.com/vEbIrn3.png]
+
+Maintenant, choisissez "Utiliser des serveurs de noms personnalisés" et entrer les noms suivants :
+
+ns1.polisystems.ch
+ns2.polisystems.ch
+ns3.polisystems.ch
+
+!()[https://i.imgur.com/hsKEpGU.png]
+
+## Changer vos enregistrements manuellement
+
+Sur votre serveur Web (que vous pouvez facilement accéder depuis l'interface client) vous avez un bouton "Gestion DNS"
+
+!()[https://i.imgur.com/IfwI0Fr.png]
+
+Vous trouverez ici tous les enregistrements nécessaires à mettre dans votre DNS (qu'il soit gérer par nous ou non).
+
+!()[https://i.imgur.com/FITpiOj.png]
+
+
+## Propagation
+
+La propagation des enregistrements DNS peut prendre jusqu'à 48 heures alors soyez patient ! Normalement, c'est plutôt rapide, mais sinon attendez et ça arrivera.
