@@ -18,7 +18,7 @@ Dans notre cas, nous allons le montrer sur un domaine hébergé chez nous, mais 
 
 Dans votre interface client Poli Systems (https://portal.polisystems.ch/clientarea) cliquer simplement sur "Mes Domaines"
 
-![](https://i.imgur.com/GoVP9Dj.png)
+![](https://i.imgur.com/v2hOIeC.png)
 
 Cliquer ensuite simplement sur le domaine concerné qui doit être hébergé chez nous.
 
