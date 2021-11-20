@@ -6,9 +6,9 @@ Si vous le souhaitez, vous pouvez également contacter notre support et nous vou
 
 Nos serveurs DNS pour les hébergements web sont les suivants :
 
-ns1.polisystems.ch  
-ns2.polisystems.ch  
-ns3.polisystems.ch  
+**ns1.polisystems.ch**  
+**ns2.polisystems.ch**  
+**ns3.polisystems.ch**  
 
 ## Changer vos enregistrements NS
 
@@ -30,9 +30,10 @@ Lorsque vous êtes ici choisissez "Serveur DNS" dans le menu à droite.
 
 Maintenant, choisissez "Utiliser des serveurs de noms personnalisés" et entrer les noms suivants :
 
-ns1.polisystems.ch  
-ns2.polisystems.ch  
-ns3.polisystems.ch  
+**ns1.polisystems.ch**  
+**ns2.polisystems.ch**  
+**ns3.polisystems.ch**  
+
 
 ![](https://i.imgur.com/hsKEpGU.png)
 
