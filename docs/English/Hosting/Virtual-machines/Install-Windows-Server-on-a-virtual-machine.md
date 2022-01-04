@@ -4,7 +4,7 @@ When you order a new virtual machine you won't see any option to choose Windows 
 
 This guide seems long, but it's very detailed to fit even new users, advanced users you can refer mainly to the images.
 
-NOTE : We don't offer Windows licences they are at your own charge, and we only accept legal licences. In case of abuse of the Microsoft licencing terms your server cloud be directly terminated without notice. 
+NOTE : We don't offer Windows licences they are at your own charge, and we only accept legal licences. In case of abuse of the Microsoft licencing terms your server could be directly terminated without notice. 
 
 ![](https://i.imgur.com/EK5c8sR.png)
 
