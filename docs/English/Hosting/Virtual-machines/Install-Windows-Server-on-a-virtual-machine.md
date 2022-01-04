@@ -87,7 +87,7 @@ Press next again.
 
 You will need to accept the licence terms, accept it and press next.
 
-### Install the needed drivers
+### Load the needed drivers
 **This part is important.**
 
 Select custom as installation. 
