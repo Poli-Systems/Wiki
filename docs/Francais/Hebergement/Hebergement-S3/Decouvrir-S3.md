@@ -4,6 +4,8 @@ De manière simple S3 est un système de fichiers. Au lieu de sauvegarder des do
 
 Concrètement S3 est très pratique pour stocker de données de manière massive. Netflix s'en sert pour stocket les fichiers des films et des séries par exemple.
 
+PS : Si vous cherchez à le configurer pour sauvegarder votre NAS Synology, voici le [guide](https://wiki.polisystems.ch/Francais/Hebergement/Hebergement-S3/Backup-S3-NAS-Synology/).
+
 ## Avantages et désavantages
 
 Le gros atout de S3 et le fait qu'on puisse le stocker dans plusieurs emplacements facilement.
