@@ -3,7 +3,7 @@
 Pour bien expliquer l'ensemble du processus, nous allons l'expliquer à partir du moment où vous commandez votre hébergement de messagerie jusqu'à ce que votre messagerie soit configurée.
 Ce guide sera très détaillé, afin que même les nouveaux utilisateurs puissent mettre en place et faire fonctionner leur service de messagerie.
 Pour les utilisateurs avancés, ce guide peut sembler long, mais vous le trouverez sûrement plus facile que vous ne le pensez.
-Si vous avez besoin d'aide, vous pouvez toujours nous [contacter](https://portal.polisystems.ch/submitticket.php) et nous serons heureux de vous aider.
+Si vous avez besoin d'aide, vous pouvez toujours nous [contacter](https://polisystems.ch/manager/submitticket.php) et nous serons heureux de vous aider.
 
 Notez que les prix et les paquets peuvent avoir changé au fil du temps.
 

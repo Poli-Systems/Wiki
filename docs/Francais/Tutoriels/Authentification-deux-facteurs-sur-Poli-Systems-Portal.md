@@ -31,7 +31,7 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 
 ## Activer l'A2F sur le Portal
 
-1. [Connectez-vous à votre compte Poli Systems Portal](https://portal.polisystems.ch/index.php?rp=/login)
+1. [Connectez-vous à votre compte Poli Systems Portal](https://polisystems.ch/manager/index.php?rp=/login)
 
 2. En haut à droite de votre écran **sélectionnez l'icône en forme de personne** > **Paramètres de sécurité**.
 

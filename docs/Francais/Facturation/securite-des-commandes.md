@@ -26,4 +26,4 @@ Eh bien, naturellement, nous avons un excellent support, nous avons des réponse
 
 De nombreuses entreprises nous font déjà confiance, pourquoi pas vous ?
 
-Nous vous recommandons également de rejoindre notre [discord](https://discord.gg/Hyh5ekP) pour obtenir plus d'aide. Vous pouvez également [ouvrir un ticket](https://portal.polisystems.ch/submitticket.php?step=2&deptid=2&language=french).
+Nous vous recommandons également de rejoindre notre [discord](https://discord.gg/Hyh5ekP) pour obtenir plus d'aide. Vous pouvez également [ouvrir un ticket](https://polisystems.ch/manager/submitticket.php?step=2&deptid=2&language=french).

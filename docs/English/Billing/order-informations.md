@@ -15,4 +15,4 @@ You are indeed concerned about order security if you want to get more informatio
 -   **You have 14 days to pay your invoice. If you don't pay during this time, there is a HIGH RISK we remove your virtual machine.**
 -   Even if the traffic is unlimited, we still want fair use by your side. (It's unlimited, but if you keep using 1gb/s, for example we will need to slow you down)
 
-As always, you can contact us [here](https://portal.polisystems.ch/contact.php) if you need any advice.
+As always, you can contact us [here](https://polisystems.ch/manager/contact.php) if you need any advice.

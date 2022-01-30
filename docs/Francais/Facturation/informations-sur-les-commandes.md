@@ -15,4 +15,4 @@ Vous êtes en effet concerné par la sécurité des commandes ; si vous souhaite
 -   **Vous avez 14 jours pour payer votre facture. Si vous ne payez pas pendant cette période, il y a un HAUT RISQUE que nous supprimions votre machine virtuelle**.
 -   Même si le trafic est illimité, nous voulons que votre utilisation soit équitable. (C'est illimité, mais si vous continuez à utiliser 1gb/s, par exemple, nous devrons vous ralentir).
 
-Comme toujours, vous pouvez nous contacter [ici](https://portal.polisystems.ch/contact.php?language=french) si vous avez besoin de conseils.
+Comme toujours, vous pouvez nous contacter [ici](https://polisystems.ch/manager/contact.php?language=french) si vous avez besoin de conseils.

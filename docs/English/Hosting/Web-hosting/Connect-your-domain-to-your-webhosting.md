@@ -16,7 +16,7 @@ Nothing could be easier!
 To do this, manage your domain.
 In our case, we will show it on a domain hosted by us, but know that the procedure is very often similar with other domain providers.
 
-In your Poli Systems client interface (https://portal.polisystems.ch/clientarea) simply click on "My Domains".
+In your Poli Systems client interface (https://polisystems.ch/manager/clientarea) simply click on "My Domains".
 
 ![](https://i.imgur.com/puIRfDm.png)
 

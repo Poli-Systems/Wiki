@@ -8,4 +8,4 @@ Cependant, vous ne pourrez pas choisir vos ports, et il sera directement appliqu
 
 Si vous avez besoin de plus de ports, contactez notre support, et si vous avez besoin de supprimer des ports, contactez également notre support.
 
-Nous savons que certains services ont besoin de plus de ports, nous connaissons votre jeu. Contactez-nous [ici](https://portal.polisystems.ch/contact.php?language=french).
+Nous savons que certains services ont besoin de plus de ports, nous connaissons votre jeu. Contactez-nous [ici](https://polisystems.ch/manager/contact.php?language=french).

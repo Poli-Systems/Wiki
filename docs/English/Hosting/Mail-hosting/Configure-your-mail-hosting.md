@@ -3,7 +3,7 @@
 To properly explain the whole process we are going to explain it from when you order your mail hosting until your mail is configured.
 This guide will be very detailed, so that even new users can have their mail service up and running.
 So for advanced user this guide can looks like long but you will surely find it easier than you think.
-In case you need help, you can always [contact us](https://portal.polisystems.ch/submitticket.php) and we will be happy to help you out.
+In case you need help, you can always [contact us](https://polisystems.ch/manager/submitticket.php) and we will be happy to help you out.
 
 Note that the prices, and packages could have changed over time.
 

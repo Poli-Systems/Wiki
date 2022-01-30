@@ -33,7 +33,7 @@ You can use any compatible 2FA client, but here are some recommendations:
 
 ## Enable 2FA the Portal
 
-1. [Login to your Poli Systems Portal account](https://portal.polisystems.ch/index.php?rp=/login)
+1. [Login to your Poli Systems Portal account](https://polisystems.ch/manager/index.php?rp=/login)
 
 2. On the top right of your screen **select the icon in the form of a person** > **Security Settings**
 

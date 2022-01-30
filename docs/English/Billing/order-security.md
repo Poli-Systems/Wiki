@@ -28,4 +28,4 @@ Well, naturally, we have excellent support, we have fast replies, and we do not 
 
 Already multiple companies trust us, why not you?
 
-We also recommend you to join our [discord](https://discord.gg/Hyh5ekP) to get more help. You can also [open a ticket](https://portal.polisystems.ch/submitticket.php?step=2&deptid=2).
+We also recommend you to join our [discord](https://discord.gg/Hyh5ekP) to get more help. You can also [open a ticket](https://polisystems.ch/manager/submitticket.php?step=2&deptid=2).

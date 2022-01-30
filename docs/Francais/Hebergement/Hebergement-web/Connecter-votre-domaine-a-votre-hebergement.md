@@ -16,7 +16,7 @@ Rien de plus simple !
 Pour ce faire, gérer votre domaine.
 Dans notre cas, nous allons le montrer sur un domaine hébergé chez nous, mais sachez que la procédure est très souvent similaire chez les autres services de domaines.
 
-Dans votre interface client Poli Systems (https://portal.polisystems.ch/clientarea) cliquer simplement sur "Mes Domaines"
+Dans votre interface client Poli Systems (https://polisystems.ch/manager/clientarea) cliquer simplement sur "Mes Domaines"
 
 ![](https://i.imgur.com/v2hOIeC.png)
 
