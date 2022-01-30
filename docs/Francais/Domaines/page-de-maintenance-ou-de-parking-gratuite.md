@@ -23,13 +23,13 @@ C'est assez simple. Vous devez configurer 2 enregistrements DNS (ou un seul). Vo
 
 Et si vous voulez le support IPV6
 
-@ ou \* pour indiquer 2a01:4f8:c2c:21e1:0000:0000:0001 comme un enregistrement **AAAA** (raccourci c'est 2a01:4f8:c2c:21e1::1)
+simplement rien ou \* pour indiquer 2a01:4f8:c2c:21e1:0000:0000:0001 comme un enregistrement **AAAA** (raccourci c'est 2a01:4f8:c2c:21e1::1)
 
 ## Avec nous
 
 C'est la même idée, mais dans votre panneau de gestion, voici un exemple :
 
-![](https://i.imgur.com/IrZbIUe.png)
+![](https://i.imgur.com/7tgQJdC.png)
 
 # Qu'est-ce qui est cool ?
 
