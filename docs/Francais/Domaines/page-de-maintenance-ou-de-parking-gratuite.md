@@ -19,7 +19,7 @@ Chez Poli Systems, nous proposons cette solution de parking gratuitement, afin q
 
 ## Avec n'importe quel fournisseur de DNS
 
-C'est assez simple. Vous devez configurer 2 enregistrements DNS (ou un seul). Vous devez ajouter les enregistrements suivants à votre DNS.@ ou \* pour pointer vers 116.203.149.108 comme enregistrement **A**.
+C'est assez simple. Vous devez configurer 2 enregistrements DNS (ou un seul). Vous devez ajouter les enregistrements suivants à votre DNS. simplement rien ou \* pour pointer vers 116.203.149.108 comme enregistrement **A**.
 
 Et si vous voulez le support IPV6
 
