@@ -24,13 +24,13 @@ It is quite easy. You need to setup 2 DNS records (or one). You need to add the 
 
 And if you want the IPV6 support
 
-@ or \* to point to 2a01:4f8:c2c:21e1:0000:0000:0001 as an **AAAA** record (shorted down it's 2a01:4f8:c2c:21e1::1)
+simply nothing or \* to point to 2a01:4f8:c2c:21e1:0000:0000:0001 as an **AAAA** record (shorted down it's 2a01:4f8:c2c:21e1::1)
 
 ## With us
 
 It is the same idea just in your management panel here is an example :
 
-![](https://i.imgur.com/IrZbIUe.png)
+![](https://i.imgur.com/7tgQJdC.png)
 
 # What is cool about it?
 
