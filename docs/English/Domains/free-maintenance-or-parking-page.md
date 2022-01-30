@@ -20,7 +20,7 @@ At Poli Systems, we offer this parking solution for free, so that you can still 
 
 ## With any DNS provider
 
-It is quite easy. You need to setup 2 DNS records (or one). You need to add the following records to your DNS.@ or \* to point to 116.203.149.108 as an **A** record.
+It is quite easy. You need to setup 2 DNS records (or one). You need to add the following records to your DNS. simply nothing or \* to point to 116.203.149.108 as an **A** record.
 
 And if you want the IPV6 support
 
