@@ -1,4 +1,4 @@
-# Two-factor authentication on the Portal
+# Two-factor authentication on the Manager
 
 ## What is 2FA?
 
@@ -31,16 +31,16 @@ You can use any compatible 2FA client, but here are some recommendations:
 -   [Duo](https://apps.apple.com/us/app/duo-mobile/id422663827)
 -   [Bitwarden](https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744)
 
-## Enable 2FA the Portal
+## Enable 2FA the Manager
 
-1. [Login to your Poli Systems Portal account](https://polisystems.ch/manager/index.php?rp=/login)
+1. [Login to your Poli Systems Manager account](https://polisystems.ch/manager/index.php?rp=/login)
 
-2. On the top right of your screen **select the icon in the form of a person** > **Security Settings**
+2. Once logged in select **Account Security / Your profile**.
 
- ![Security Settings](https://i.imgur.com/fHqWGYB.png)  
-3. In the Security Settings panel press **Click Here to Enable**
+ ![Security Settings](https://i.imgur.com/1E14mlv.png)  
+3. Click **Security Settings** in the right buttons, and press **Click here to enable**.
 
- ![Enable 2FA](https://i.imgur.com/hxMww76.png)  
+ ![Enable 2FA](https://i.imgur.com/G7KgKFo.png)  
 4. On the "Time Based Tokens" section press on **Get Started >>** 
 
  ![Time based tokens](https://i.imgur.com/q4QBAOJ.png)  
@@ -57,9 +57,9 @@ You can use any compatible 2FA client, but here are some recommendations:
 
  ![2FA login](https://i.imgur.com/4xSgLZa.png)
 
-## Disable 2FA on the Portal
+## Disable 2FA on the Manager
 
-1. Return to the "Security Settings" page as mentioned in the step 1 and 2 in "Enable 2FA on your Poli Systems Portal Account".
+1. Return to the "Security Settings" page as mentioned in the step 1 and 2 in "Enable 2FA on your Poli Systems Manager Account".
 2. Press the big red button **Click here to Disable**
 
  ![Disable 2FA button](https://i.imgur.com/bCZUnn2.png)  
