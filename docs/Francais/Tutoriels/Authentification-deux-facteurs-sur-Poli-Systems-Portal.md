@@ -61,7 +61,7 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 2. Appuyez sur le gros bouton rouge **Cliquez ici pour désactiver**.
 
  ![Button de désactivation de A2F](https://i.imgur.com/QE31oBK.png)  
-3. Entrez votre mot de passe pour désactiver 2FA et appuyez sur **Disable Two-Factor Authentification**.
+3. Entrez votre mot de passe pour désactiver 2FA et appuyez sur **Désactiver l'authentification à deux facteurs**.
 
  ![Désactiver l'authentification à deux facteurs](https://i.imgur.com/lo1qjcy.png)  
 4. Une fois que vous avez désactivé l'authentification à deux facteurs, vous devriez avoir le message suivant.
