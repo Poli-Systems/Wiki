@@ -1,4 +1,4 @@
-# Authentification à deux facteurs sur le Portal
+# Authentification à deux facteurs sur le Manager
 
 ## Qu'est-ce que l'A2F ?
 
@@ -29,14 +29,14 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 -   [Duo](https://apps.apple.com/us/app/duo-mobile/id422663827)
 -   [Bitwarden](https://apps.apple.com/us/app/bitwarden-password-manager/id1137397744)
 
-## Activer l'A2F sur le Portal
+## Activer l'A2F sur le Manager
 
-1. [Connectez-vous à votre compte Poli Systems Portal](https://polisystems.ch/manager/index.php?rp=/login)
+1. [Connectez-vous à votre compte Poli Systems Manager](https://polisystems.ch/manager/index.php?rp=/login)
 
-2. En haut à droite de votre écran **sélectionnez l'icône en forme de personne** > **Paramètres de sécurité**.
+2. Une fois connecté selectionner **Sécurité du compte / Votre profil** ![Sécurité de mon profil](https://i.imgur.com/bcG5Jcm.png)
 
- ![Paramètres de sécurité](https://i.imgur.com/ilkhjrX.png)   
-3. Dans le panneau Paramètres de sécurité, cliquez sur **Cliquez ici pour activer**.
+ ![Paramètres de sécurité](https://i.imgur.com/HCc8OUn.png)   
+3. Cliquer sur **Paramètres de sécurité**, et cliquez sur **Cliquez ici pour activer**.
 
  ![Activer A2F](https://i.imgur.com/bNk41lG.png)   
 4. Dans la section "Jetons temporels", cliquez sur **Commencer >>**. 
@@ -54,7 +54,7 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
  ![Page de connexion](https://i.imgur.com/AoTrNr0.png)  
  ![A2F login](https://i.imgur.com/Zr7G9Dx.png)  
 
-## Désactiver A2F sur le Portal
+## Désactiver A2F sur le Manager
 
 1. Retournez à la page "Paramètres de sécurité" comme mentionné dans les étapes 1 et 2 de "Activer le A2F sur votre compte du portail Poli Systems".
 
