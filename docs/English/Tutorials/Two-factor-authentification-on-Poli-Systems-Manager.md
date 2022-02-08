@@ -62,7 +62,7 @@ You can use any compatible 2FA client, but here are some recommendations:
 1. Return to the "Security Settings" page as mentioned in the step 1 and 2 in "Enable 2FA on your Poli Systems Manager Account".
 2. Press the big red button **Click here to Disable**
 
- ![Disable 2FA button](https://i.imgur.com/bCZUnn2.png)  
+ ![Disable 2FA button](https://i.imgur.com/sAd5uw7.png)  
 3. Enter your password to disable 2FA and press **Disable Two-Factor Authentification**
 
  ![Disable Two-Factor Authenficiation](https://i.imgur.com/5ZaMOld.png)  
