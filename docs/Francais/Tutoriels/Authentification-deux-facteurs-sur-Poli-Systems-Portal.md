@@ -35,7 +35,7 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 
 2. Une fois connecté selectionner **Sécurité du compte / Votre profil**
 
- ![Paramètres de sécurité](https://i.imgur.com/HCc8OUn.png)   
+ ![Paramètres de sécurité](https://i.imgur.com/bcG5Jcm.png)   
 3. Cliquer sur **Paramètres de sécurité**, et cliquez sur **Cliquez ici pour activer**.
 
  ![Activer A2F](https://i.imgur.com/bNk41lG.png)   
