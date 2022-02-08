@@ -33,7 +33,7 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 
 1. [Connectez-vous à votre compte Poli Systems Manager](https://polisystems.ch/manager/index.php?rp=/login)
 
-2. Une fois connecté selectionner **Sécurité du compte / Votre profil** ![Sécurité de mon profil](https://i.imgur.com/bcG5Jcm.png)
+2. Une fois connecté selectionner **Sécurité du compte / Votre profil**
 
  ![Paramètres de sécurité](https://i.imgur.com/HCc8OUn.png)   
 3. Cliquer sur **Paramètres de sécurité**, et cliquez sur **Cliquez ici pour activer**.
