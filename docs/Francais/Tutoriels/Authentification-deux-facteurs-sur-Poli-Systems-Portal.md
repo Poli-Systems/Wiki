@@ -56,7 +56,7 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 
 ## Désactiver A2F sur le Manager
 
-1. Retournez à la page "Paramètres de sécurité" comme mentionné dans les étapes 1 et 2 de "Activer le A2F sur votre compte du portail Poli Systems".
+1. Retournez à la page "Paramètres de sécurité" comme mentionné dans les étapes 1 et 2 de "Activer le A2F sur votre compte du Manager Poli Systems".
 
 2. Appuyez sur le gros bouton rouge **Cliquez ici pour désactiver**.
 
