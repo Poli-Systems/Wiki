@@ -37,7 +37,7 @@ Ici il vous suffit d'entrer vos informations S3 (disponible dans votre espace pe
 
 ![](https://i.imgur.com/px1oExF.png)
 
- - Adresse du serveur : s3.polisystems.ch
+ - Adresse du serveur : s3.polisystems.ch, s3-02.polisystems.ch, s3-03.polisystems.ch
  - Signature Version : V4 ou V2
  - Type de requête : Type Chemin
  - Access Key : Votre clé d'accès S3
