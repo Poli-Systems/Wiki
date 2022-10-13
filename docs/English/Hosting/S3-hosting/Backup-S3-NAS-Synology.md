@@ -39,7 +39,7 @@ Here you only need to enter your S3 information (available in your personal Poli
 
 ![](https://i.imgur.com/brIOHIa.png)
 
- - Server address : s3.polisystems.ch
+ - Server address : s3.polisystems.ch, s3-02.polisystems.ch, s3-03.polisystems.ch
  - Signature Version : V4 or V2
  - Request Style : Path-Style
  - Access Key : Your S3 access key
