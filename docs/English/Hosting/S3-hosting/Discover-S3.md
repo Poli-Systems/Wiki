@@ -54,6 +54,7 @@ Install it on your PC and then go to your Poli Systems customer area.
 Choose the S3 service and take your login information.
 
 Then fill in the information like here.
+
 ![](https://i.imgur.com/f8JjwVT.png)
 
 Press Save, and you are connected to your S3 service.
