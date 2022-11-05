@@ -44,7 +44,7 @@ On your web server (which you can easily access from the client interface) you h
 
 ![](https://i.imgur.com/rB9s9fi.png)
 
-Vous trouverez ici tous les enregistrements nécessaires à mettre dans votre DNS (qu'il soit gérer par nous ou non).
+You will find here all the necessary records to put in your DNS (whether it is managed by us or not).
 
 ![](https://i.imgur.com/mY7yudq.png)
 
@@ -52,3 +52,4 @@ Vous trouverez ici tous les enregistrements nécessaires à mettre dans votre DN
 ## Propagation
 
 DNS records can take up to 48 hours to propagate so be patient! Normally it's pretty fast, but if not, just wait and it will happen.
+The TTL is also a reason on why it can be slower. You can consider the TTL like a "Cache Time", the lower it is, the faster all DNS servers will ask for a new reply.
