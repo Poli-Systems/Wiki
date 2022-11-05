@@ -52,3 +52,4 @@ Vous trouverez ici tous les enregistrements nécessaires à mettre dans votre DN
 ## Propagation
 
 La propagation des enregistrements DNS peut prendre jusqu'à 48 heures alors soyez patient ! Normalement, c'est plutôt rapide, mais sinon attendez et ça arrivera.
+Le TTL est également une raison pour laquelle la propagation peut être plus lente. Vous pouvez considérer le TTL comme un "temps de cache", plus il est bas, plus vite tous les serveurs DNS demanderont une nouvelle réponse.
