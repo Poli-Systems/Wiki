@@ -26,7 +26,7 @@ Vous trouverez ici des informations sur l'hébergement, notamment l'hébergement
 **Dans toutes ces sections, vous trouverez des tutoriels et des explications sur la façon d'effectuer des actions spécifiques.
 ## Avis de non-responsabilité
 
-We created this wiki to help out. It needs to be considered as a help, more like an FAQ. We aren't responsible for any damages to your material, machines.
+Nous avons créé ce wiki pour vous aider. Il doit être considéré comme une aide, plutôt comme une FAQ. Nous ne sommes pas responsables des dommages causés à votre matériel, machines.
 
 Lisez correctement **chaque** ligne d'une page avant de l'appliquer.
 
