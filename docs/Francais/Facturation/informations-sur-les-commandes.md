@@ -1,6 +1,6 @@
 #  Informations sur les commandes
 
-Vous êtes en effet concerné par la sécurité des commandes ; si vous souhaitez obtenir plus d'informations à ce sujet, vous pouvez d'abord lire [notre article à ce sujet](/securite-des-commandes.md).
+Vous êtes en effet concerné par la sécurité des commandes ; si vous souhaitez obtenir plus d'informations à ce sujet, vous pouvez d'abord lire [notre article à ce sujet](./securite-des-commandes.md).
 
 -   Les délais de livraison sont instantanés pour vos machines virtuelles, sauf si vous utilisez le virement bancaire, celui-ci sera activé dès que nous recevrons votre paiement.
 -   Si nous ne livrons pas votre machine instantanément, cela peut être dû aux raisons suivantes :
