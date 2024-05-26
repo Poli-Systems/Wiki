@@ -31,9 +31,9 @@ Ensuite, changez le "Serveur"
 ![](https://i.imgur.com/0gvdBtR.png)
 
 Vous pouvez modifier cette valeur comme bon vous semble ou utiliser les serveurs NTP publics de Poli Systems :
-ntp1.polisystems.ch pour un serveur en Allemagne, Nuremberg
+ntp1.polisystems.ch pour des serveurs en Allemagne
 
-ntp2.polisystesms.ch pour un serveur en Suisse, Genève
+ntp2.polisystesms.ch pour des serveurs en Suisse
 
 Toutes nos machines sont synchronisées avec différentes horloges atomiques en Suisse et en Allemagne.
 Enfin, cliquez sur "Mettre à jour maintenant" et OK.
