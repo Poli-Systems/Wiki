@@ -51,15 +51,25 @@ Set up your destination (S3 of Poli Systems in our case). Select "S3 Compatible"
 ![S3 Compatible](https://i.imgur.com/hKanLho.png)
 
 Next, set the following options:
+
 - **Use SSL**: Ticked
+
 - **Server**: Poli Systems - 02 (CH) or Poli Systems - 03 (CH) depending on what we've provided
+
 - **Bucket Name**: This can be anything, but ideally something like the computer name
+
 - **Bucket Create Region**: Leave as is
+
 - **Storage Class**: Leave as is
+
 - **Folder Path**: The path where your backups will be in the bucket. We recommend the name of your job, for us it will be "Test"
+
 - **AWS Access ID**: The AWS Access ID of your S3 Poli Systems service, found in your client area under the concerned service
+
 - **AWS Access Key**: The AWS Key ID of your S3 Poli Systems service, found in your client area under the concerned service
+
 - **Client Library to Use**: Leave as is
+
 
 Before proceeding, perform one important step for the backup to work properly. In the "Advanced options" section, add an advanced option. Add "s3-disable-chunk-encoding" and tick it.
 
