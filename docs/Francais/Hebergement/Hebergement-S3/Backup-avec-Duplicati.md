@@ -54,15 +54,25 @@ Configurez votre destination (S3 de Poli Systems dans notre cas). Sélectionnez 
 ![Compatible S3](https://i.imgur.com/hKanLho.png)
 
 Ensuite, configurez les options suivantes :
+
 - **Utiliser SSL** : Coché
+
 - **Serveur** : Poli Systems - 02 (CH) ou Poli Systems - 03 (CH) selon ce qui vous a été fourni
+
 - **Nom du Bucket** : Cela peut être n'importe quoi, mais idéalement quelque chose comme le nom de l'ordinateur
+
 - **Région de Création du Bucket** : Laisser tel quel
+
 - **Classe de Stockage** : Laisser tel quel
+
 - **Chemin du Dossier** : Le chemin où vos sauvegardes seront dans le bucket. Nous recommandons le nom de votre travail, pour nous ce sera "Test"
+
 - **ID d'Accès AWS** : L'ID d'accès AWS de votre service S3 Poli Systems, disponible dans votre espace client sous le service concerné
+
 - **Clé d'Accès AWS** : L'ID de clé AWS de votre service S3 Poli Systems, disponible dans votre espace client sous le service concerné
+
 - **Bibliothèque Client à Utiliser** : Laisser tel quel
+
 
 Avant de continuer, effectuez une étape importante pour que la sauvegarde fonctionne correctement. Dans la section "Options Avancées", ajoutez une option avancée. Ajoutez "s3-disable-chunk-encoding" et cochez-la.
 
