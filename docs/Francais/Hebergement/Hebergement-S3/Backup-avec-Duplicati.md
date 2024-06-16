@@ -13,7 +13,7 @@ Ce Wiki est tiré de notre article Anglais et à été traduis par IA.
 
 ## Commander Votre Stockage S3
 
-Tout d'abord, vous devez calculer l'espace de stockage S3 dont vous avez besoin. Vous pouvez choisir un plan S3 sur notre site ici : [https://polisystems.ch/en/s3](https://polisystems.ch/en/s3)
+Tout d'abord, vous devez calculer l'espace de stockage S3 dont vous avez besoin. Vous pouvez choisir un plan S3 sur notre site ici : [https://polisystems.ch/fr/s3](https://polisystems.ch/fr/s3)
 
 Assurez-vous d'évaluer correctement l'espace de stockage dont vous avez besoin pour vos sauvegardes.
 
