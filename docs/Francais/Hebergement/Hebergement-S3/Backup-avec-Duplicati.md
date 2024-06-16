@@ -9,7 +9,7 @@ Ce Wiki est tiré de notre article Anglais et à été traduis par IA.
 
 ## Qu'est-ce que Duplicati ?
 
-Duplicati est un client de sauvegarde gratuit, open-source et hautement configurable qui stocke de manière sécurisée des sauvegardes chiffrées, incrémentielles et compressées sur des services de stockage cloud et des serveurs de fichiers distants. C'est une alternative populaire aux solutions de sauvegarde commerciales, offrant un moyen robuste et flexible de protéger vos données.
+[Duplicati](https://duplicati.com) est un client de sauvegarde gratuit, open-source et hautement configurable qui stocke de manière sécurisée des sauvegardes chiffrées, incrémentielles et compressées sur des services de stockage cloud et des serveurs de fichiers distants. C'est une alternative populaire aux solutions de sauvegarde commerciales, offrant un moyen robuste et flexible de protéger vos données.
 
 ## Commander Votre Stockage S3
 

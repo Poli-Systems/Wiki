@@ -6,7 +6,7 @@ This article refers to Duplicati - 2.0.8.1 using a Windows PC. However, the step
 
 ## What is Duplicati?
 
-Duplicati is a free, open-source, and highly configurable backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. It's a popular alternative to commercial backup solutions, offering a robust and flexible way to protect your data.
+[Duplicati](https://duplicati.com) is a free, open-source, and highly configurable backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. It's a popular alternative to commercial backup solutions, offering a robust and flexible way to protect your data.
 
 ## Ordering Your S3 Storage
 
