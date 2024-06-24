@@ -1,6 +1,8 @@
 
 # Backup S3 NAS Synology
 
+Duplicati S3
+
 Cette page de Wiki va vous guider pour la configuration des backups de votre NAS Synology sur notre service S3.
 Ce service S3 est proposé par nous-mêmes, avec une triple réplication dans deux datacenters différents en Suisse et avec de l'encryptage AES-256 au niveau des disques.
 À la fin de cette page de Wiki vous aurez configuré votre NAS Synology avec des backups chez nous en utilisant le service Hyper backup de Synology.

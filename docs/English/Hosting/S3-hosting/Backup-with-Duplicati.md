@@ -1,5 +1,7 @@
 # Backup with Duplicati to Poli Systems S3
 
+Duplicati S3
+
 This wiki page will guide you through setting up backups with Duplicati on our S3 service. Our S3 service offers triple replication in two different data centers in Switzerland and AES-256 encryption at the disk level. By the end of this guide, you will have configured your Duplicati backups.
 
 This article refers to Duplicati - 2.0.8.1 using a Windows PC. However, the steps should be the same for Linux, Mac, or other systems.
