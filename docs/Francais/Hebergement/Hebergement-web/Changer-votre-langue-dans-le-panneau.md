@@ -1,34 +1,23 @@
-# Changer votre langue dans le panneau
+# Changez la langue de votre panneau de gestion Web
 
+Vous pouvez changer la langue de votre panneau de gestion Web entre le français et l'anglais de deux manières différentes. La première méthode consiste à utiliser la connexion SSO, qui peut également être utilisée une fois connecté. La deuxième méthode vous permet de sélectionner la langue lorsque vous vous connectez manuellement au panneau de gestion.
 
-Si vous souhaitez changer la langue de votre panneau de contrôle entre le français et l'anglais, vous pouvez le faire de deux manières différentes. Si vous utilisez toujours l'"ancien" panneau plesk, veuillez faire défiler la page ci-dessous.
+## Via les paramètres utilisateur dans le panneau
 
-## DirectAdmin (Nouveau panneau depuis 2021)
+Pour modifier votre langue directement dans le panneau de gestion Web, suivez ces étapes :
 
-La première solution, et la plus simple, consiste à le choisir lors de votre connexion :  
+1. Accédez aux paramètres en cliquant sur le menu dans le coin supérieur droit de l'écran.
 
-![](https://i.imgur.com/B9XJi97.png)
+   ![Menu des paramètres](https://i.imgur.com/fz5h9Fb.png)
 
-La deuxième façon est une fois que vous êtes connecté. Faites défiler la page vers le bas et vous verrez une boîte de sélection de la langue.
-Il est possible qu'il soit nécessaire de sélectionner la langue à nouveau après la connexion comme expliqué ci-dessous.
- 
-![](https://i.imgur.com/ZneOCq0.png)
+2. Dans le menu, sélectionnez l'option de langue sous la section correspondante.
 
-## Plesk (ancien panneau de contrôle)
+   ![Sélection de la langue](https://i.imgur.com/DpvxYRy.png)
 
-La première solution, et la plus simple, consiste à le choisir lors de votre connexion :  
+3. Choisissez votre langue préférée parmi les options disponibles.
 
-![](https://i.imgur.com/c5G4bla.png)
+## Via la page de connexion du panneau de gestion Web
 
-La deuxième façon est d'aller dans votre profil (en haut à gauche) et de cliquer sur modifier le profil.
- 
-![](https://i.imgur.com/pB1yPS2.png)
+Si vous préférez sélectionner votre langue lors de la connexion et que vous n'utilisez pas la connexion directe via notre Manager, vous pouvez le faire sur la page de connexion.
 
-  
-Et ensuite en choisissant votre langue et en cliquant sur ok ou/et appliquer.  
- 
-
-![](https://i.imgur.com/btATal8.png)
-
-  
-Comme toujours, si vous avez un problème, contactez-nous.
+![Sélection de la langue sur la page de connexion](https://i.imgur.com/6gb2qW2.png)
