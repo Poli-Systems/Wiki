@@ -1,25 +1,20 @@
 # Changer la version de votre serveur Factorio
 
--   Connectez-vous à votre panneau à l'adresse [https://game.polisystems.ch](https://game.polisystems.ch) ou via votre espace client (si vous n'avez pas encore configuré votre compte, surveillez vos mails).
--   Une fois là, cliquez sur gérer.
+1. Connectez-vous à votre panneau sur [https://game.polisystems.ch](https://game.polisystems.ch) ou via l’espace client (consultez vos e-mails si le compte n’est pas encore créé).
+2. Cliquez sur **Manage** pour ouvrir la vue d’ensemble de votre serveur Factorio.
 
-![](https://i.imgur.com/8rBO93N.png)
+   ![](https://i.imgur.com/8rBO93N.png)
 
--   Ici, vous aurez une vue complète de votre serveur Factorio.
+3. Rendez-vous dans **Configuration → Paramètres de démarrage**.
 
-![](https://i.imgur.com/Cxys6zW.png)
+   ![](https://i.imgur.com/CClM2xM.png)
 
--   Une fois que vous êtes là, allez dans Configuration > Paramètres de démarrage.  
+4. Sélectionnez l’entrée souhaitée dans **Version de Factorio** (récente, expérimentale ou personnalisée à partir de [la liste des versions disponibles](https://updater.factorio.com/get-available-versions)) puis cliquez sur **Mise à jour des paramètres de démarrage**.
 
-![](https://i.imgur.com/CClM2xM.png)
+   ![](https://i.imgur.com/Mz9RQWo.png)
 
--   Changez votre version dans "version de Factorio" et n'oubliez pas de cliquer sur **Mise à jour des paramètres de démarrage** vous pouvez choisir entre plusieurs versions (expérimentale, la plus récente, ou personnalisée une liste des versions peut être trouvée ici [https://updater.factorio.com/get-available-versions)](https://updater.factorio.com/get-available-versions)
+5. Passez à l’onglet **Avancé** (deux boutons à gauche), cliquez sur **Réinstaller**, puis confirmez. Nous recommandons de télécharger vos sauvegardes au préalable, même si seule la partie binaire de Factorio est réinitialisée.
 
-![](https://i.imgur.com/Mz9RQWo.png)
+   ![](https://i.imgur.com/5xyVD9w.png)
 
--   Passez maintenant à l'onglet avancé, simplement 2 boutons à gauche des paramètres de démarrage.
--   Ici, appuyez sur le bouton de réinstallation (oui, le bouton rouge) et appuyez sur OK. Nous vous recommandons de télécharger vos sauvegardes avant, cependant, nous n'avons jamais perdu aucune sauvegarde pendant le processus. **C'est écrit, toutes les données seront perdues, mais seuls les binaires de factorio seront touchés.**
-
-![](https://i.imgur.com/5xyVD9w.png)
-
-- Une fois que vous avez appuyé sur le bouton, attendez quelques secondes (10-30) en général. Et vous serez à nouveau redirigé vers la page. Allez dans Système > Console et redémarrez votre serveur factorio. Vous verrez qu'une fois que vous aurez compris, c'est vraiment en 2 clics. S'il y a une nouvelle mise à jour et que vous êtes réglé sur expérimental (et qu'il y a une nouvelle mise à jour expérimentale) appuyez sur réinstaller le serveur. Amusez-vous bien !
+6. Patientez 10 à 30 secondes, ouvrez **Système → Console** et démarrez le serveur. Répétez la réinstallation dès que vous souhaitez récupérer une nouvelle build expérimentale.

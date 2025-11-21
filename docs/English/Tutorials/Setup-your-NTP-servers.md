@@ -1,87 +1,88 @@
-# How to configure to NTP
+# How to configure NTP
 
-## What is NTP
+## What is NTP?
 
-In brief, the Network Time Protocol syncs your computer with multiple “Time Servers" around the world. You can define them manually, or automatically. It permits your computer, phone, and any devices that support NTP to have a really precise time, as it's needed for some programs or applications.  
+The Network Time Protocol (NTP) synchronizes your device with multiple time servers around the world. You can configure them manually or automatically. Accurate timekeeping is essential for logging, certificates, and many services that rely on consistent timestamps.
  
 
 ## On Windows
 
-Firstly, open your control panel.
+1. Open the Control Panel.
 
 ![](https://i.imgur.com/pFiEIrD.png)
 
-Then, go in the Clock and Region section.
+2. Go to **Clock and Region**.
 
 ![](https://i.imgur.com/X2cR64S.png)
 
-Once you are there, click on “Date and Time”
+3. Click **Date and Time**.
 
 ![](https://i.imgur.com/lc5aA5V.png)
 
-Click on internet time
+4. Select the **Internet Time** tab.
 
 ![](https://i.imgur.com/xHQokH4.png)
 
-Once there click on “Change settings…"
+5. Click **Change settings…**
 
 ![](https://i.imgur.com/y3dDaRy.png)
 
-Then change the “Server”
+6. Update the **Server** value.
 
 ![](https://i.imgur.com/0gvdBtR.png)
+   - `ntp1.polisystems.ch` (Germany)
+   - `ntp2.polisystems.ch` (Switzerland)
 
-You can change this value by anything you want or use the Poli Systems public NTP servers :  
-ntp1.polisystems.ch for servers in Germany
+All our machines are synchronized with multiple atomic clocks in Switzerland and Germany, so you can use either server.
 
-ntp2.polisystems.ch for servers in Switzerland
-
-All our machines are synced with different Atomic clock around Switzerland and Germany.  
-Finnaly press “Update now” and OK.
+7. Click **Update now**, then **OK**.
 
 ![](https://i.imgur.com/J5DwOeV.png)
 
-You are done for your Windows Machine!
+Your Windows machine now keeps reliable time.
 
 ## On Linux
 
-On Linux in the CLI it's really quiet easy to do.
+On Linux, configuration via the CLI is straightforward.
 
-Install the NTP package if needed.
+1. Install the NTP package if needed:
 
-> apt install ntp -y
-> 
-> yum install ntp -y
+   ```bash
+   apt install ntp -y
+   # or
+   yum install ntp -y
+   ```
 
-Then go in `/etc/ntp.conf` 
+2. Edit `/etc/ntp.conf`:
 
-> nano /etc/ntp.conf
+   ```bash
+   nano /etc/ntp.conf
+   ```
 
-Change the lines “server" to
+3. Update the `server` lines:
 
-> server ntp1.polisystems.ch
-> 
-> server ntp2.polisystems.ch
+   ```bash
+   server ntp1.polisystems.ch
+   server ntp2.polisystems.ch
+   ```
 
-And finnaly make
+4. Restart the service:
 
-> service ntp restart
+   ```bash
+   service ntp restart
+   ```
 
-You can also run `ntpdate -u ntp1.polisystems.ch` to update the time on your machine once.
+You can also run `ntpdate -u ntp1.polisystems.ch` for a one-time sync if you need an immediate correction.
 
-## On MacOS
+## On macOS
 
-Sadly for this one we don't have any screen-shots but here is how to do it !
-
-macOS, Open the System Preferences app: Date and Time
-
-1.  Click the lock to unlock the preference pane, if needed
-2.  Enable the “Set date and time automatically” option
-3.  Enter the IP or DNS addresses of your preferred time-servers followed by a period character, and separate multiple entries with commas.  
-    E.g. “ntp1.polisystems.ch., ntp2.polisystems.ch.”
+1. Open **System Preferences > Date & Time** (or **System Settings** on recent versions).
+2. Click the lock to unlock the pane if required.
+3. Enable **Set date and time automatically**.
+4. Enter the IP or DNS addresses of your preferred time servers, separated by commas, for example: `ntp1.polisystems.ch., ntp2.polisystems.ch.`
 
 # Final notes
 
-That's it now you will always be on time, and your computer too!
+Your devices are now synced and ready to keep accurate time.
 
-ressources for macOS : [https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html](https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html)
+Resources for macOS: [https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html](https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html)

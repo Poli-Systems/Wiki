@@ -1,21 +1,18 @@
 # Game save recreation
 
--   Somtimes you can have this issue when changing Factorio versions. If you want to "convert" an old game, use your Factorio game client and then upload the save to the server.
--   Login to your panel at [https://game.polisystems.ch](https://game.polisystems.ch) or via your client area (if you didn't setup your account yet watch your mails)
--   Once there click on manage.
+Sometimes switching Factorio versions can corrupt or mismatch a save. To recreate it cleanly:
 
-![](https://i.imgur.com/8rBO93N.png)
+1. Use your local Factorio client to open and re-save the world in the target version, then upload that save back to the server.
+2. Log in to [https://game.polisystems.ch](https://game.polisystems.ch) (or the client area) and click **Manage**.
 
--   Here you will have a full view of your Factorio server.
+   ![](https://i.imgur.com/8rBO93N.png)
 
-![](https://i.imgur.com/Cxys6zW.png)
+3. Open **File Manager**.
 
--   Once you are there go to File Manager 
+   ![](https://i.imgur.com/F5kecjV.png)
 
-![](https://i.imgur.com/F5kecjV.png)
+4. Delete the existing `gamesave.zip`.
 
--   Remove your gamesave.zip file
+   ![](https://i.imgur.com/F9Khxa7.png)
 
-![](https://i.imgur.com/F9Khxa7.png)
-
--   Restart your server, and you should be good !
+5. Restart your server and the refreshed save should load normally.

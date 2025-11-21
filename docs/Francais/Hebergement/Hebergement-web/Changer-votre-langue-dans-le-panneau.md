@@ -1,6 +1,6 @@
 # Changez la langue de votre panneau de gestion Web
 
-Vous pouvez changer la langue de votre panneau de gestion Web entre le français et l'anglais de deux manières différentes. La première méthode consiste à utiliser la connexion SSO, qui peut également être utilisée une fois connecté. La deuxième méthode vous permet de sélectionner la langue lorsque vous vous connectez manuellement au panneau de gestion.
+Vous pouvez basculer la langue de votre panneau de gestion Web entre le français et l'anglais de deux manières. Soit vous la changez depuis les paramètres du panneau (y compris après une connexion SSO), soit vous choisissez la langue directement sur l'écran de connexion lorsque vous vous identifiez manuellement.
 
 ## Via les paramètres utilisateur dans le panneau
 
@@ -10,14 +10,14 @@ Pour modifier votre langue directement dans le panneau de gestion Web, suivez ce
 
    ![Menu des paramètres](https://i.imgur.com/fz5h9Fb.png)
 
-2. Dans le menu, sélectionnez l'option de langue sous la section correspondante.
+2. Dans la section langue, sélectionnez l'option que vous préférez.
 
    ![Sélection de la langue](https://i.imgur.com/DpvxYRy.png)
 
-3. Choisissez votre langue préférée parmi les options disponibles.
+3. Validez la langue souhaitée.
 
 ## Via la page de connexion du panneau de gestion Web
 
-Si vous préférez sélectionner votre langue lors de la connexion et que vous n'utilisez pas la connexion directe via notre Manager, vous pouvez le faire sur la page de connexion.
+Si vous vous connectez manuellement plutôt que via le Manager en SSO, choisissez la langue sur la page de connexion avant de saisir vos identifiants.
 
 ![Sélection de la langue sur la page de connexion](https://i.imgur.com/6gb2qW2.png)

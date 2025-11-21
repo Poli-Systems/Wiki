@@ -1,35 +1,33 @@
 # Welcome to the Wiki
 
-[Poli Systems](https://polisystems.ch) created this wiki for every user around, clients or not. We created this wiki to give peoples advice, tutorials and information about Linux system administration, web hosting services, management using panels such as Plesk.
-Of course, this wiki will mainly focus on products that Poli Systems sells.
+[Poli Systems](https://polisystems.ch) created this wiki for everyone—customers or not. It shares practical advice, tutorials, and information about Linux system administration, web hosting services, and management with panels such as Plesk. Examples naturally focus on the products and services offered by Poli Systems.
 
-## How to navigate in this wiki
+## How to navigate this wiki
 
-On the **left** of your screen `←←←←` you will find all the pages of this wiki.
-
-And on the **top right** you can search for a page.
-
-Note that it's also possible to change the language on the top right.
+- On the **left** of your screen (`←←←←`) you will find every page in this wiki.
+- In the **top-right corner**, use the search box to find a topic quickly.
+- Switch languages using the selector in the top-right corner.
 
 ### Billing
 
-Billing contains all information about Order security, billing and so on.
+Everything related to invoices, order security, and payment details.
 
 ### Domains
 
-This section contains all information about domains, including **SSL information** and how to set it up.
+Information about domains, including **SSL details** and setup guides.
 
 ### Hosting
 
-Here you can find information about hosting such as Web hosting, Game hosting,...
+Details on web hosting, game hosting, and other services.
 
-**In all those sections, you can find tutorials and explanations on how to do specific actions.**
+**Each section contains tutorials and explanations for specific actions.**
+
 ## Disclaimer
 
-We created this wiki to help out. It needs to be considered as a help, more like an FAQ. We aren't responsible for any damages to your material, machines. 
+This wiki is designed to help you—think of it as an extended FAQ. Poli Systems cannot be held responsible for any damage resulting from misuse of the information provided. Always confirm the commands, screenshots, and examples match your environment before applying them.
 
-Read correctly **every** line of a page before applying it.
+Please read **every** step on a page before applying it.
 
 ## Contribute
 
-This wiki is open-source (while still being on Copyright). You can freely correct it by making a pull request on Github.
+This wiki is open source (while remaining under copyright). Feel free to submit improvements or corrections via a pull request on GitHub.

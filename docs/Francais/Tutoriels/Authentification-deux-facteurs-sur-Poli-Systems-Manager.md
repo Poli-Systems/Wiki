@@ -2,13 +2,12 @@
 
 ## Qu'est-ce que l'A2F ?
 
-L'**authentification à deux facteurs** (**A2F**), **authentification à double facteur** ou **vérification en deux étapes** (_two-factor authentication_ en anglais, ou _2FA_) est une méthode d'[authentification forte](https://fr.wikipedia.org/wiki/Authentification_forte "Authentification forte") par laquelle un utilisateur peut accéder à une ressource informatique (un [ordinateur](https://fr.wikipedia.org/wiki/Ordinateur "Ordinateur"), un [téléphone intelligent](https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phone_intelligent "Téléphone intelligent") ou encore un [site web](https://fr.wikipedia.org/wiki/Site_web "Site web")) après avoir présenté deux preuves d'identité distinctes à un mécanisme d'[authentification](https://fr.wikipedia.org/wiki/Authentification "Authentification"). Un exemple de ce processus est l'accès à un compte bancaire grâce à un [guichet automatique bancaire](https://fr.wikipedia.org/wiki/Guichet_automatique_bancaire "Guichet automatique bancaire") : seule la combinaison de la carte bancaire (que l'usager détient) et du [numéro d'identification personnel](https://fr.wikipedia.org/wiki/Num%C3%A9ro_d%27identification_personnel "Numéro d'identification personnel") (que l'usager connaît) permet de consulter le solde du compte et de retirer de l'argent.
+L'**authentification à deux facteurs** (**A2F**), **authentification à double facteur** ou **vérification en deux étapes** (_two-factor authentication_ en anglais, ou _2FA_) est une méthode d'[authentification forte](https://fr.wikipedia.org/wiki/Authentification_forte "Authentification forte") où l'utilisateur fournit deux preuves d'identité distinctes pour accéder à une ressource informatique (ordinateur, téléphone intelligent ou [site web](https://fr.wikipedia.org/wiki/Site_web "Site web")). Par exemple, pour consulter un compte bancaire à un [guichet automatique bancaire](https://fr.wikipedia.org/wiki/Guichet_automatique_bancaire "Guichet automatique bancaire"), il faut la carte (possession) et le [numéro d'identification personnel](https://fr.wikipedia.org/wiki/Num%C3%A9ro_d%27identification_personnel "Numéro d'identification personnel") (connaissance).
 
-**Source Wikipedia.
+**Source : Wikipedia.**
 ## Applications pour configurer l'A2F
 
-Il existe de nombreuses applications capables de fournir des codes à usage unique pour A2F.
-Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques recommandations : 
+De nombreuses applications peuvent générer des codes à usage unique pour l'A2F. Vous pouvez utiliser n'importe quel client compatible ; voici quelques recommandations :
 
 **PC**
 
@@ -31,47 +30,50 @@ Vous pouvez utiliser n'importe quel client A2F compatible, mais voici quelques r
 
 ## Activer l'A2F sur le Manager
 
-1. [Connectez-vous à votre compte Poli Systems Manager](https://polisystems.ch/manager/index.php?rp=/login)
+1. [Connectez-vous à votre compte Poli Systems Manager](https://polisystems.ch/manager/index.php?rp=/login).
 
-2. Une fois connecté selectionner **Sécurité du compte / Votre profil**
+2. Une fois connecté, sélectionnez **Sécurité du compte / Votre profil**.
 
- ![Paramètres de sécurité](https://i.imgur.com/bcG5Jcm.png)   
-3. Cliquer sur **Paramètres de sécurité** dans les buttons de droite, et cliquez sur **Cliquez ici pour activer**.
+   ![Paramètres de sécurité](https://i.imgur.com/bcG5Jcm.png)
 
- ![Activer A2F](https://i.imgur.com/HCc8OUn.png)   
-4. Dans la section "Jetons temporels", cliquez sur **Commencer >>**. 
+3. Cliquez sur **Paramètres de sécurité** dans la section de droite, puis sur **Cliquez ici pour activer**.
 
- ![Jetons temporels](https://i.imgur.com/qDCs5nu.png)  
-5. Une fois que vous êtes ici, scannez simplement le code QR dans votre application préférée ou entrez le code manuellement.  Une fois que vous l'avez fait, entrez le code d'identification temporaire que vous avez obtenu dans l'application dans le champ "Entrer le code d'authentification" dans la zone de texte ci-dessous.  Appuyez simplement sur **Envoyer** une fois que c'est fait. 
-*Note : Si vous voulez vous authentifier à partir de plusieurs appareils, vous devez scanner le code QR avec chaque appareil que vous voulez utiliserez.*
+   ![Activer A2F](https://i.imgur.com/HCc8OUn.png)
 
- ![QR Code pour Authy, Google Authentifcator, et applications 2AF](https://i.imgur.com/ppuWN50.png)   
-6. Votre connexion A2F devrait maintenant être prête ! N'oubliez pas de conserver votre code de sauvegarde au cas où vous perdriez l'accès à votre téléphone portable. Il est préférable de le mettre sur papier pour une sécurité maximale. 
+4. Dans la section **Jetons temporels**, cliquez sur **Commencer >>**.
 
- ![A2F authentification activée codes de backups](https://i.imgur.com/ytu4yAQ.png)  
-7. Pour vous connecter à l'aide de l'authentification à deux facteurs, il vous suffit de vous rendre sur la page de connexion, de saisir vos informations d'identification et d'appuyer sur la touche de connexion. Et lorsque vous obtenez une page d'authentification à deux facteurs, entrez le code d'authentification de votre application.
+   ![Jetons temporels](https://i.imgur.com/qDCs5nu.png)
 
- ![Page de connexion](https://i.imgur.com/AoTrNr0.png)  
- ![A2F login](https://i.imgur.com/Zr7G9Dx.png)  
+5. Scannez le code QR avec votre application préférée ou saisissez le code manuellement. Ensuite, entrez le code d'identification temporaire dans le champ **Entrer le code d'authentification**, puis appuyez sur **Envoyer**.
 
-## Désactiver A2F sur le Manager
+   *Note : pour vous authentifier depuis plusieurs appareils, scannez le code QR avec chacun d'eux.*
 
-1. Retournez à la page "Paramètres de sécurité" comme mentionné dans les étapes 1 et 2 de "Activer le A2F sur votre compte du Manager Poli Systems".
+   ![QR Code pour Authy, Google Authentifcator, et applications 2AF](https://i.imgur.com/ppuWN50.png)
 
+6. Votre connexion A2F devrait maintenant être prête. Conservez votre code de sauvegarde au cas où vous perdriez l'accès à votre téléphone. Pour plus de sécurité, enregistrez-le sur papier dans un endroit sûr.
+
+   ![A2F authentification activée codes de backups](https://i.imgur.com/ytu4yAQ.png)
+
+7. Pour vous connecter avec l'A2F, rendez-vous sur la page de connexion, saisissez vos identifiants puis validez. Quand l'authentification à deux facteurs s'affiche, entrez le code depuis votre application.
+
+   ![Page de connexion](https://i.imgur.com/AoTrNr0.png)
+   ![A2F login](https://i.imgur.com/Zr7G9Dx.png)
+
+## Désactiver l'A2F sur le Manager
+
+1. Retournez à la page **Paramètres de sécurité** comme indiqué aux étapes 1 et 2 de « Activer l'A2F sur le Manager ».
 2. Appuyez sur le gros bouton rouge **Cliquez ici pour désactiver**.
 
- ![Button de désactivation de A2F](https://i.imgur.com/q8rbHm3.png)  
-3. Entrez votre mot de passe pour désactiver 2FA et appuyez sur **Désactiver l'authentification à deux facteurs**.
+   ![Button de désactivation de A2F](https://i.imgur.com/q8rbHm3.png)
+3. Entrez votre mot de passe pour désactiver l'A2F et appuyez sur **Désactiver l'authentification à deux facteurs**.
 
- ![Désactiver l'authentification à deux facteurs](https://i.imgur.com/lo1qjcy.png)  
-4. Une fois que vous avez désactivé l'authentification à deux facteurs, vous devriez avoir le message suivant.
+   ![Désactiver l'authentification à deux facteurs](https://i.imgur.com/lo1qjcy.png)
+4. Une fois l'authentification à deux facteurs désactivée, vous devriez voir le message suivant.
 
- ![Authentification à deux facteurs désactivée](https://i.imgur.com/OudypOW.png)
+   ![Authentification à deux facteurs désactivée](https://i.imgur.com/OudypOW.png)
 
 ## Conclusions
 
-Le système d'authentification à deux facteurs est important. Nous vous recommandons vivement de l'activer pour votre compte. 
-Il ajoute des couches de sécurité supplémentaires pour votre compte et offre une meilleure sécurité.
-N'oubliez pas d'utiliser un mot de passe fort avec l'authentification à deux facteurs.
+Le système d'authentification à deux facteurs est essentiel et nous vous recommandons fortement de l'activer. Il ajoute une couche supplémentaire de protection, surtout lorsqu'il est combiné avec un mot de passe robuste.
 
-Nous nous assurons que nos systèmes sont toujours sûrs en utilisant différents formulaires captcha sur notre site Web, mais il est vraiment important de suivre les meilleures pratiques pour votre compte. La sécurité nous tient à cœur. Si vous rencontrez des problèmes lors de l'activation de ce service, n'hésitez pas à nous contacter.
+Nous assurons la sécurité de nos systèmes grâce à diverses mesures (captcha, etc.), mais appliquer les bonnes pratiques pour votre compte reste primordial. Si vous rencontrez des difficultés pour activer ce service, n'hésitez pas à nous contacter.

@@ -2,84 +2,86 @@
 
 ## Qu'est-ce que le NTP ?
 
-En bref, le Network Time Protocol synchronise votre ordinateur avec plusieurs "serveurs de temps" dans le monde. Vous pouvez les définir manuellement ou automatiquement. Il permet à votre ordinateur, à votre téléphone et à tout autre appareil prenant en charge le protocole NTP d'avoir une heure vraiment précise, ce qui est nécessaire pour certains programmes ou applications.
+Le Network Time Protocol (NTP) synchronise votre appareil avec plusieurs serveurs de temps à travers le monde. Vous pouvez les définir manuellement ou automatiquement. Une heure précise est essentielle pour les journaux, les certificats et de nombreux services qui s'appuient sur des horodatages cohérents.
 
 ## Sur Windows
 
-Tout d'abord, ouvrez votre panneau de configuration.
+1. Ouvrez le **Panneau de configuration**.
 
 ![](https://i.imgur.com/pFiEIrD.png)
 
-Ensuite, allez dans la section Horloge et Région.
+2. Allez dans la section **Horloge et Région**.
 
 ![](https://i.imgur.com/X2cR64S.png)
 
-Une fois que vous y êtes, cliquez sur "Date et heure".
+3. Cliquez sur **Date et heure**.
 
 ![](https://i.imgur.com/lc5aA5V.png)
 
-Cliquez sur l'heure internet
+4. Sélectionnez l'onglet **Heure Internet**.
 
 ![](https://i.imgur.com/xHQokH4.png)
 
-Une fois là, cliquez sur "Modifier les paramètres...".
+5. Cliquez sur **Modifier les paramètres...**
 
 ![](https://i.imgur.com/y3dDaRy.png)
 
-Ensuite, changez le "Serveur"
+6. Remplacez le **Serveur** par :
 
 ![](https://i.imgur.com/0gvdBtR.png)
+   - `ntp1.polisystems.ch` (Allemagne)
+   - `ntp2.polisystems.ch` (Suisse)
 
-Vous pouvez modifier cette valeur comme bon vous semble ou utiliser les serveurs NTP publics de Poli Systems :
-ntp1.polisystems.ch pour des serveurs en Allemagne
+Toutes nos machines sont synchronisées avec différentes horloges atomiques en Suisse et en Allemagne. Vous pouvez donc utiliser indifféremment l'un ou l'autre serveur.
 
-ntp2.polisystesms.ch pour des serveurs en Suisse
-
-Toutes nos machines sont synchronisées avec différentes horloges atomiques en Suisse et en Allemagne.
-Enfin, cliquez sur "Mettre à jour maintenant" et OK.
+7. Cliquez sur **Mettre à jour maintenant**, puis sur **OK**.
 
 ![](https://i.imgur.com/J5DwOeV.png)
 
-Vous avez terminé pour votre machine Windows !
+Votre machine Windows est maintenant configurée avec une heure fiable.
 
 ## Sur Linux
 
-Sous Linux, dans le CLI, c'est vraiment très facile à faire.
+Sous Linux, la configuration en ligne de commande est très simple.
 
-Installez le paquet NTP si nécessaire.
+1. Installez le paquet NTP si nécessaire :
 
-> apt install ntp -y
-> 
-> yum install ntp -y
+   ```bash
+   apt install ntp -y
+   # ou
+   yum install ntp -y
+   ```
 
-Ensuite aller dans  `/etc/ntp.conf` 
+2. Éditez `/etc/ntp.conf` :
 
-> nano /etc/ntp.conf
+   ```bash
+   nano /etc/ntp.conf
+   ```
 
-Remplacez les lignes "server" par
+3. Remplacez les lignes `server` :
 
-> server ntp1.polisystems.ch
-> 
-> server ntp2.polisystems.ch
+   ```bash
+   server ntp1.polisystems.ch
+   server ntp2.polisystems.ch
+   ```
 
-Et enfin faites...
+4. Redémarrez le service :
 
-> service ntp restart
+   ```bash
+   service ntp restart
+   ```
 
-Vous pouvez également exécuter `ntpdate -u ntp1.polisystems.ch` pour mettre à jour l'heure sur votre machine une fois.
+Vous pouvez aussi exécuter `ntpdate -u ntp1.polisystems.ch` pour réaliser une synchronisation ponctuelle si vous avez besoin d'une correction immédiate.
 
-## Sur MacOS
+## Sur macOS
 
-Malheureusement pour celui-ci, nous n'avons pas de captures d'écran mais voici comment faire !
-
-macOS, ouvrez l'application Préférences Système : Date et heure
-
-1.  Cliquez sur le verrou pour déverrouiller le volet des préférences, si nécessaire. 
-2.  Activez l'option "Régler la date et l'heure automatiquement". 
-3.  Entrez les adresses IP ou DNS de vos serveurs de temps préférés, suivies d'un point, et séparez les entrées multiples par des virgules. Par exemple, "ntp1.polisystems.ch., ntp2.polisystems.ch.".
+1. Ouvrez **Préférences Système > Date et heure** (ou **Réglages Système** sur les versions récentes).
+2. Cliquez sur le cadenas pour déverrouiller le panneau si nécessaire.
+3. Activez **Régler la date et l'heure automatiquement**.
+4. Entrez les adresses IP ou DNS de vos serveurs de temps préférés, séparées par des virgules, par exemple : `ntp1.polisystems.ch., ntp2.polisystems.ch.`
 
 # Notes finales
 
-Voilà, vous serez toujours à l'heure, et votre ordinateur aussi !
+Votre machine reste maintenant synchronisée avec une heure fiable.
 
-ressources pour macOS : [https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html](https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html)
+Ressources pour macOS : [https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html](https://www.ctrl.blog/entry/tutorial-macos-ntp-config.html)

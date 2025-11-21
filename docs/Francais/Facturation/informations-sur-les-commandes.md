@@ -1,18 +1,18 @@
-#  Informations sur les commandes
+# Informations sur les commandes
 
-Vous êtes en effet concerné par la sécurité des commandes ; si vous souhaitez obtenir plus d'informations à ce sujet, vous pouvez d'abord lire [notre article à ce sujet](./securite-des-commandes.md).
+Si vous vous interrogez sur la sécurité de vos commandes, vous pouvez d'abord lire [notre article dédié](./securite-des-commandes.md).
 
--   Les délais de livraison sont instantanés pour vos machines virtuelles, sauf si vous utilisez le virement bancaire, celui-ci sera activé dès que nous recevrons votre paiement.
--   Si nous ne livrons pas votre machine instantanément, cela peut être dû aux raisons suivantes :
-    - Notre système de vérification des fraudes a signalé votre commande, nous devons l'examiner manuellement.
-    - L'article n'a pas de stock.
-    - L'installation automatique a échoué pour une raison quelconque ; un de nos ingénieurs la vérifiera automatiquement.
-    - L'élément est approvisionné manuellement.
--   Vous pourrez accéder à un panneau de gestion une fois votre commande activée en allant dans l'espace client > Services > Mes services et en cliquant sur votre service.
--   Sur ce panneau, vous pourrez gérer votre IP, vnc, réinitialiser votre machine, redémarrer et ainsi de suite.
--   Vous êtes facturé chaque mois ou chaque année à la même date que vous avez passé la commande (sauf le mois pour l'abonnement mensuel).
--   Si vous ne payez pas, nous arrêterons automatiquement vos services.
--   **Vous avez 14 jours pour payer votre facture. Si vous ne payez pas pendant cette période, il y a un HAUT RISQUE que nous supprimions votre machine virtuelle**.
--   Même si le trafic est illimité, nous voulons que votre utilisation soit équitable. (C'est illimité, mais si vous continuez à utiliser 1gb/s, par exemple, nous devrons vous ralentir).
+-   La livraison est instantanée pour les machines virtuelles, sauf en cas de paiement par virement bancaire : l'activation a lieu dès réception du paiement.
+-   Si votre service n'est pas livré immédiatement, cela peut être dû aux raisons suivantes :
+    - Notre système de détection de fraude a signalé votre commande et elle doit être vérifiée manuellement.
+    - L'article est en rupture de stock.
+    - L'installation automatique a échoué ; un de nos ingénieurs la vérifiera.
+    - L'article est approvisionné manuellement.
+-   Une fois votre commande activée, accédez au panneau de gestion via **Espace client > Services > Mes services** et cliquez sur votre service.
+-   Depuis ce panneau, vous pouvez gérer l'IP, le VNC, réinitialiser ou redémarrer votre machine, etc.
+-   La facturation est mensuelle ou annuelle, à la même date que la commande initiale (les abonnements mensuels sont facturés chaque mois).
+-   En cas de non-paiement, les services sont automatiquement suspendus.
+-   **Vous disposez de 14 jours pour payer votre facture. Passé ce délai, votre machine virtuelle risque fortement d'être supprimée.**
+-   Le trafic est illimité, mais un usage équitable est requis. Par exemple, une consommation continue à 1 Gb/s peut entraîner un bridage.
 
 Comme toujours, vous pouvez nous contacter [ici](https://polisystems.ch/manager/contact.php?language=french) si vous avez besoin de conseils.
