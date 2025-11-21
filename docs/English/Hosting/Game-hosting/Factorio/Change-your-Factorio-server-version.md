@@ -1,25 +1,20 @@
-# Change yur Factorio server version
+# Change your Factorio server version
 
--   Login to your panel at [https://game.polisystems.ch](https://game.polisystems.ch) or via your client area (if you didn't setup your account yet watch your mails)
--   Once there click on manage.
+1. Log in to your panel at [https://game.polisystems.ch](https://game.polisystems.ch) or through the client area (check your emails if the account is not set up yet).
+2. Click **Manage** to open your Factorio server overview.
 
-![](https://i.imgur.com/8rBO93N.png)
+   ![](https://i.imgur.com/8rBO93N.png)
 
--   Here you will have a full view of your Factorio server.
+3. Go to **Configuration → Startup Parameters**.
 
-![](https://i.imgur.com/Cxys6zW.png)
+   ![](https://i.imgur.com/CClM2xM.png)
 
--   Once you are there go to Configuration > Startup Parameters 
+4. Choose the desired entry in **Factorio version** (latest, experimental, or a custom build from [the available versions list](https://updater.factorio.com/get-available-versions)) and click **Update Startup Parameters**.
 
-![](https://i.imgur.com/CClM2xM.png)
+   ![](https://i.imgur.com/Mz9RQWo.png)
 
--   Change your version in Factorio version and remember to click on **Update Startup Parameters** you can choose between multiple versions (experimental, latest, or custom a list of version can be found here [https://updater.factorio.com/get-available-versions)](https://updater.factorio.com/get-available-versions) 
+5. Switch to the **Advanced** tab (two buttons to the left), click **Reinstall**, and confirm. We recommend downloading your saves first, but the process only refreshes the Factorio binaries.
 
-![](https://i.imgur.com/Mz9RQWo.png)
+   ![](https://i.imgur.com/5xyVD9w.png)
 
--   Now move to the advanced tab, simply 2 buttons left of the Startup Parameters.
--   Here press on the reinstall button (yes the red one) and press OK. We recommend you to download your saves before, however, we never have lost any saves during the process. **It's written, All data will be lost, but only factorio binaries will be touched.**
-
-![](https://i.imgur.com/5xyVD9w.png)
-
--   Once you have pressed wait a few seconds (10-30) usually. And you will be redirected again to the page. Go in System > Console and start your factorio server again. You will see once you have understood it's truly 2 clicks. If there are a new update and you are set on experimental (and there is one new experimental update out) press on reinstall the server. Have fun!
+6. Wait 10–30 seconds, then open **System → Console** and start the server. Repeat the reinstall step whenever you want to pick up a new experimental build.

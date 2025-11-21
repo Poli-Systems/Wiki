@@ -1,16 +1,15 @@
-#  Sous-domaine pour votre machine virtuelle
-Depuis le 30.04.2020 (et sur toutes les machines), un sous-domaine gratuit est livré avec la machine que vous pouvez utiliser pour connecter votre serveur et avoir une connexion HTTPS vers celui-ci.
+# Utiliser le sous-domaine intégré pour votre machine virtuelle
 
-Il n'y a pas de certificat SSL émis avec, et il pointe directement vers votre IPV4.
+Depuis le 30.04.2020, chaque machine virtuelle est livrée avec un sous-domaine gratuit qui pointe directement vers votre adresse IPv4. Vous pouvez l'utiliser immédiatement pour atteindre votre serveur et activer le HTTPS dès que vous ajoutez un certificat.
 
-Voici un exemple :
+**Exemple :** `192.168.1.1.polisystems.cloud` résout vers `192.168.1.1`.
 
-**192.168.1.1.polisystems.cloud va vers 192.168.1.1.**
+### Ce qui est fourni
+- Le sous-domaine est créé automatiquement : placez simplement votre IP avant `polisystems.cloud`.
+- Le reverse DNS est préconfiguré sur `static.<votre-ip>.clients.polisystems.cloud`.
 
-Vos RDNS sont également automatiquement définis sur static.yourip.clients.polisystems.cloud.
+### SSL et conseils d'usage
+- Aucun certificat SSL n'est émis par défaut. Générez-en un vous-même (par exemple avec Let's Encrypt) si vous avez besoin du HTTPS.
+- Vous pouvez utiliser cet hôte pour l'accès quotidien, vos tests ou en attendant que votre propre domaine soit entièrement configuré.
 
-Cela signifie qu'il vous suffit de mettre votre IP en face de polisystems.cloud.
-
-Bien sûr, vous pouvez utiliser ce domaine au quotidien, et par exemple, appliquer un certificat SSL en utilisant let's encrypt.
-
-Nous espérons que cela vous aidera à mettre en place vos machines.
+Ce sous-domaine intégré doit vous permettre de mettre vos machines en ligne plus rapidement avec un nom d'hôte joignable.

@@ -1,29 +1,29 @@
 # Sécurité des commandes
 
-Si vous n'êtes pas sûr de votre commande, vous pouvez tout d'abord nous contacter à tout moment !
+Si vous avez un doute concernant votre commande, vous pouvez nous contacter à tout moment.
 
-Internet est un lieu de tous les dangers, et les escroqueries sont assez courantes. Nous utilisons les sécurités suivantes sur notre site web.
+Internet comporte des risques et les escroqueries sont fréquentes. Nous appliquons donc les protections suivantes sur notre site :
 
--   Notre site web est sécurisé partout avec un cryptage de bout en bout. Nous utilisons TLS 1.2 ou 1.3. Les versions en dessous ne sont pas acceptées pour éviter les problèmes de sécurité.
--   Vous passez par deux grands points de sécurité. Tout d'abord, vous passez par Cloudflare pour accéder à notre site web, ce qui empêche les attaques DDOS ou toute autre attaque en général.
+- Notre site est sécurisé partout avec un chiffrement de bout en bout. Nous utilisons TLS 1.2 ou 1.3 ; les versions inférieures sont bloquées pour éviter toute vulnérabilité.
+- Vous traversez deux points de sécurité majeurs. Tout d'abord, Cloudflare filtre le trafic pour bloquer les attaques DDoS et autres menaces.
 
-![](https://i.imgur.com/LOpoFX1.png)
+![Protection Cloudflare](https://i.imgur.com/LOpoFX1.png)
 
--   Par le biais de Cloudflare, vous allez sur leur serveur, puis dans un deuxième temps, vous passez de notre côté et arrivez chez nous avec un certificat SSL/TLS.
--   Tous nos serveurs sont protégés par une protection DDOS ultra-haute gamme, de sorte que votre commande ne sera pas arrêtée parce qu'un attaquant tente de mettre nos services hors service. Pour les attaques de niveau 7, nous vous recommandons de connecter votre site web à [Cloudflare](https://cloudflare.com).
--   Pour les paiements, nous utilisons les sites officiels des services de paiement pour nous assurer que vous êtes en sécurité. Par exemple, vous allez sur paypal.com lorsque vous payez avec PayPal. Pour Wallee, vous obtenez une lightbox de leur site web. Nous ne procédons donc pas au paiement. Ils le font pour nous.
--   Tous nos mots de passe administratifs de l'interface de messagerie et de gestion comportent au moins 24 caractères. Ils sont tous différents, il sera donc difficile de pirater nos utilisateurs administratifs quoi qu'il arrive.
--   Si vous utilisez un bloqueur de publicité, vous verrez sûrement un avis concernant Google Analytics. Nous utilisons Google Analytics pour voir où vont nos utilisateurs et aussi pour voir s'il y a des robots ou des personnes malveillantes autour.
--   Nous ne montrons jamais l'IP du serveur principal. Tout le trafic passe par Cloudflare, et il n'est pas possible de trouver l'IP de notre serveur principal, ce qui empêche les attaques par force brutale SSH ou les attaques de ce genre.
--   Nous avons essayé de tester notre site web avec des systèmes tels que SSLlab, Mail-tester, securi.
--   De nombreuses règles, telles que nosniff et same-origin, sont définies dans notre fichier .htaccess afin d'empêcher le détournement de clics et les téléchargements dérobée.
--   Nos machines utilisent des listes de bannissement FireHol personnalisées. Nous avons des pare-feu personnalisés pour empêcher les attaques DDoS.
--   Nous avons activé l'outil de balayage CSAM pour analyser nos billets afin de prévenir la présence de matériel pédopornographique (CSAM) dans ceux-ci. Si vous souhaitez l'activer sur votre site web, consultez cet article de blog [https://blog.cloudflare.com/the-csam-scanning-tool/](https://blog.cloudflare.com/the-csam-scanning-tool/)
+- Via Cloudflare, vous atteignez leurs serveurs puis vous vous connectez aux nôtres avec des certificats SSL/TLS.
+- Tous nos serveurs disposent d'une protection DDoS avancée ; vos commandes ne sont donc pas perturbées par des tentatives d'attaque. Pour les attaques de niveau 7, nous recommandons de connecter votre site à [Cloudflare](https://cloudflare.com).
+- Les paiements sont réalisés sur les pages officielles de chaque prestataire. Par exemple, PayPal est traité sur paypal.com et Wallee ouvre une fenêtre depuis son propre site. Nous ne manipulons jamais directement vos données de paiement.
+- Les mots de passe administratifs pour la messagerie et les interfaces de gestion comportent au moins 24 caractères et sont uniques, ce qui les rend difficiles à compromettre.
+- Nous utilisons reCAPTCHA (la petite roue en bas à droite) pour détecter l'activité suspecte et bloquer les robots.
+- Si vous utilisez un bloqueur de publicité, vous verrez peut-être des avis concernant Google Analytics. Nous l'utilisons pour comprendre la navigation des utilisateurs et repérer tout comportement inhabituel ou malveillant.
+- L'IP du serveur principal n'est jamais exposée : tout le trafic passe par Cloudflare, ce qui empêche les attaques par force brute SSH ou similaires.
+- Nous testons régulièrement notre site avec des outils tels que SSL Labs, Mail-Tester et Sucuri afin de vérifier sa conformité et sa robustesse.
+- Des en-têtes de sécurité comme `X-Content-Type-Options: nosniff` et `X-Frame-Options: SAMEORIGIN` sont configurés dans notre fichier `.htaccess` pour éviter le clickjacking et les téléchargements malveillants.
+- L'accès aux serveurs se fait uniquement via des clés SSH (RSA4096 ou ED25519) avec authentification multifacteur.
+- Des listes de blocage FireHol personnalisées et des pare-feux adaptés limitent encore davantage les risques de DDoS.
+- Nous activons l'outil de détection CSAM de Cloudflare sur les tickets afin de prévenir la présence de contenu pédopornographique. Pour en savoir plus : [https://blog.cloudflare.com/the-csam-scanning-tool/](https://blog.cloudflare.com/the-csam-scanning-tool/).
 
-Et pourquoi devriez-vous nous faire confiance pour acheter quelque chose ?
+### Pourquoi nous faire confiance ?
 
-Eh bien, naturellement, nous avons un excellent support, nous avons des réponses rapides, et nous n'avons pas de mauvaise réputation. Vous pouvez toujours nous demander de l'aide si vous en avez besoin.
+Nous offrons un support réactif, une réputation solide et travaillons déjà avec de nombreuses entreprises. Si vous avez besoin d'aide, il suffit de nous demander.
 
-De nombreuses entreprises nous font déjà confiance, pourquoi pas vous ?
-
-Nous vous recommandons également de rejoindre notre [discord](https://discord.gg/Hyh5ekP) pour obtenir plus d'aide. Vous pouvez également [ouvrir un ticket](https://polisystems.ch/manager/submitticket.php?step=2&deptid=2&language=french).
+Rejoignez notre [Discord](https://discord.gg/Hyh5ekP) pour obtenir de l'aide plus rapidement, ou [ouvrez un ticket](https://polisystems.ch/manager/submitticket.php?step=2&deptid=2&language=french).

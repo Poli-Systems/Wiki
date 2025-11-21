@@ -1,43 +1,41 @@
 <!-- -->
-#Maintenace or parking page
+# Maintenance or parking page
 
-We offer to anyone free maintenance or a parking page that looks like this with random images.
+We offer everyone a free maintenance or parking page that looks like this, with random images.
 
 ![](https://i.imgur.com/JBR9jok.png)
 
-#What is parking?
+# What is parking?
 
-If you bought a domain and want to keep it, not to lose it, you indeed wish this domain to still show that it's currently parked and owned.
+If you bought a domain and want to keep it without publishing a full website, you can display a page showing the domain is parked and owned.
 
-Parking is also excellent to not lose the SEO score in a few days. It will only show as a maintenance page on your search engine.
+Parking also helps preserve SEO signals over short downtimes by presenting a maintenance page instead of an empty result.
 
-If you want to sell your domain, having a parked page is also a good idea to prove that the domain is still active.
+If you plan to sell your domain, a parked page reassures buyers that the domain is active.
 
-At Poli Systems, we offer this parking solution for free, so that you can still keep your domain with an introductory page in front of it.  
+At Poli Systems, we offer this parking solution for free so you can keep your domain online with a simple introductory page.
  
 
-# How to setup your domain
+# How to set up your domain
 
 ## With any DNS provider
 
-It is quite easy. You need to setup 2 DNS records (or one). You need to add the following records to your DNS. simply nothing or \* to point to 116.203.149.108 as an **A** record.
+Setting this up is simple: configure two DNS records (or one, if you only want IPv4).
 
-And if you want the IPV6 support
-
-simply nothing or \* to point to 2a01:4f8:c2c:21e1:0000:0000:0001 as an **AAAA** record (shorted down it's 2a01:4f8:c2c:21e1::1)
+- `@` or `*` pointing to **116.203.149.108** as an **A** record
+- `@` or `*` pointing to **2a01:4f8:c2c:21e1:0000:0000:0001** as an **AAAA** record (short form: **2a01:4f8:c2c:21e1::1**)
 
 ## With us
 
-It is the same idea just in your management panel here is an example :
+The process is the same in your management panel. Here is an example:
 
 ![](https://i.imgur.com/7tgQJdC.png)
 
-# What is cool about it?
+# Why is it great?
 
-Firstly, it's hosted on totally green infrastructure as it's part of one of the Poli Systems machines. It runs on a virtual machine (VDS 1 - Ryzen 9 PRO 3900).  
-
-And the images are randomly generated "[https://picsum.photos/1920/1080](https://picsum.photos/1920/1080)". If you are in maintenance and you really need to have a downtime point to it, SEO won't rank you lower because your website went down!
+- Hosted on energy-efficient infrastructure as part of Poli Systems’ servers (running on a VDS 1 - Ryzen 9 PRO 3900).
+- Images are randomly generated via [https://picsum.photos/1920/1080](https://picsum.photos/1920/1080). Even during maintenance, search engines see an active page, helping protect your SEO.
 
 # Is it really free?
 
-Yes it is, it's totally free of charge for anyone, we have our logo on it so we are also taking this as a sponsorship!
+Yes, it is completely free for everyone. We add our logo, so we also see it as a form of sponsorship.

@@ -1,25 +1,22 @@
-# Change your minecraft server version
+# Change your Minecraft server version
 
--   Firstly as always login in your dashboard in your client area or on [https://game.polisystems.ch](https://game.polisystems.ch)
--   Click on manage to manage your minecraft server 
+1. Sign in to your dashboard from the client area or directly at [https://game.polisystems.ch](https://game.polisystems.ch).
+2. Click **Manage** on your Minecraft server.
 
-![](https://i.imgur.com/RKV9UkR.png)
+   ![](https://i.imgur.com/RKV9UkR.png)
 
--   Once you are there, we recommend you to start your server for the first time if you didn't do it for now
--   If it's your first time turning on your server you need to accept the EULA 
+3. If this is the first launch, start the server once so it can generate the world and prompt you to accept the EULA.
 
-![](https://i.imgur.com/a3GLAuG.png)
+   ![](https://i.imgur.com/a3GLAuG.png)
 
--   Once you have done this your server start for the first time, let it a few time to generate the world. (In diamond it takes 29 seconds for example) It's only once so you will only wait once. It depends on your plan. Once your server is marked as "ON", you are ready to play or in this case change version. (Between you are not forced to do this step, but it's recommended to prevent issues. If the map is not totally generated for example). From default, you have the vanilla server.
+   > Tip: letting the initial generation finish avoids chunk or save issues when you change versions.
 
-![](https://i.imgur.com/TK6TSqV.png)
+4. When the server shows **ON**, open **Configuration → Advanced**.
 
--   Now go under configuration -> Advanced 
+   ![](https://i.imgur.com/0R8abbl.png)
 
-![](https://i.imgur.com/0R8abbl.png)
+5. Select the edition and version you want (for example Spigot 1.15.2) and click **Install edition**.
 
--   Choose the edition and the version you want for example spigot 1.15.2 and press install edition. 
+   ![](https://i.imgur.com/dXgxLCP.png)
 
-![](https://i.imgur.com/dXgxLCP.png)
-
--   Wait 10-20 seconds and go back to start up your server! Have fun!
+6. Wait 10–20 seconds, then start the server again and enjoy the new version.

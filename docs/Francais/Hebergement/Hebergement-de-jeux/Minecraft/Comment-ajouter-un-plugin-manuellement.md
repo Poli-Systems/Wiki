@@ -1,16 +1,15 @@
 # Comment ajouter un plugin manuellement
 
--   Tout d’abord, comme toujours, connectez-vous à votre tableau de bord dans votre espace client ou sur https://game.polisystems.ch
--   Cliquez sur manage pour gérer votre serveur Minecraft
+1. Connectez-vous à votre tableau de bord depuis l’espace client ou sur [https://game.polisystems.ch](https://game.polisystems.ch), puis cliquez sur **Manage** pour votre serveur Minecraft.
 
-![](https://i.imgur.com/RKV9UkR.png)
+   ![](https://i.imgur.com/RKV9UkR.png)
 
--   Allez dans le file manager
+2. Ouvrez le **File Manager**.
 
-![](https://i.imgur.com/KLjgtIn.png)
+   ![](https://i.imgur.com/KLjgtIn.png)
 
--   Faites défiler vers le bas pour trouver le dossier plugins ou créez le dossier et ajoutez vos plugins dans ce dossier
+3. Recherchez le dossier `plugins` (ou créez-le s’il n’existe pas) et téléversez vos plugins à l’intérieur.
 
-![](https://i.imgur.com/KMJlOyS.png)
+   ![](https://i.imgur.com/KMJlOyS.png)
 
--   Notez que vous avez besoin d’un serveur qui utilise des plugins comme Spigot
+4. Redémarrez le serveur. Assurez-vous d’utiliser une édition compatible avec les plugins comme Spigot ou Paper.

@@ -1,23 +1,23 @@
 # Change Your Language in the Web Management Panel
 
-You can change the language of your web management panel between French and English in two different ways. The first method involves using the SSO connection, which can also be accessed once logged in. The second method allows you to select the language when you manually log in to the management panel.
+You can switch the web management panel between French and English in two ways. You can change it from the in-panel settings (including after SSO), or you can pick your language directly on the login screen when signing in manually.
 
 ## Via User Settings in the Panel
 
 To modify your language directly in the web management panel, follow these steps:
 
-1. Access the settings by clicking on the menu in the top right corner of the screen.
+1. Access the settings by clicking the menu in the top right corner of the screen.
 
    ![Settings Menu](https://i.imgur.com/z4SSmpI.png)
 
-2. In the menu, select the language option under the corresponding section.
+2. Under the language section, choose the option you prefer.
 
    ![Language Selection](https://i.imgur.com/FjzazNN.png)
 
-3. Choose your desired language from the available options.
+3. Confirm your preferred language.
 
 ## Via the Login Page of the Web Management Panel
 
-If you prefer to select your language while logging in and you are not using the direct connection via our Manager, you can do it on the login page.
+If you are logging in manually instead of through the Manager SSO, pick your language on the login page before entering your credentials.
 
 ![Login Page Language Selection](https://i.imgur.com/6gb2qW2.png)
