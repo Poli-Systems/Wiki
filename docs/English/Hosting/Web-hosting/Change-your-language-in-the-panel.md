@@ -1,40 +1,23 @@
-# Change your language in the panel
+# Change Your Language in the Web Management Panel
 
-If you want to change your panel language between French and English, you can do it in 2 different ways.
-If you are still using the "old" plesk panel please scroll down below.
+You can change the language of your web management panel between French and English in two different ways. The first method involves using the SSO connection, which can also be accessed once logged in. The second method allows you to select the language when you manually log in to the management panel.
 
-## DirectAdmin (New panel since 2021)
+## Via User Settings in the Panel
 
-The first one and the easiest way is to choose it when you log in:  
- 
+To modify your language directly in the web management panel, follow these steps:
 
-![](https://i.imgur.com/7XI1RvN.png)
+1. Access the settings by clicking on the menu in the top right corner of the screen.
 
-The second way is once your are logged in.
-Scroll down at the bottom of the page you have a language selection box.
-It may be necessary to select the language again after login as explained below.
+   ![Settings Menu](https://i.imgur.com/z4SSmpI.png)
 
-![](https://i.imgur.com/udhjHYv.png)
+2. In the menu, select the language option under the corresponding section.
 
+   ![Language Selection](https://i.imgur.com/FjzazNN.png)
 
-## Plesk (Old panel)
+3. Choose your desired language from the available options.
 
-The first one and the easiest way is to choose it when you log in:  
- 
+## Via the Login Page of the Web Management Panel
 
-![](https://i.imgur.com/c5G4bla.png)
+If you prefer to select your language while logging in and you are not using the direct connection via our Manager, you can do it on the login page.
 
-The second way is to go in your profile (at the top left) and by clicking edit profile.  
- 
-
-![](https://i.imgur.com/O0YG6ie.png)
-
-  
-And then by choosing your language and click ok or/and apply.  
- 
-
-![](https://i.imgur.com/btATal8.png)
-
-  
-  
-As always if you have an issue contact us.
+![Login Page Language Selection](https://i.imgur.com/6gb2qW2.png)

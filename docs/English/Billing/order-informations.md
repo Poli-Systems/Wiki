@@ -1,6 +1,6 @@
 # Order informations
 
-You are indeed concerned about order security if you want to get more information about it, you can first read [our article about it](../order-security/).
+You are indeed concerned about order security if you want to get more information about it, you can first read [our article about it](./order-security.md).
 
 -   The delivery times are instant for your virtual machines, except if you use the bank transfer, it will be activated once we receive your payment.
 -   If we don't deliver your machine instantly, it can be because of the following reasons :

@@ -32,9 +32,9 @@ Then change the “Server”
 ![](https://i.imgur.com/0gvdBtR.png)
 
 You can change this value by anything you want or use the Poli Systems public NTP servers :  
-ntp1.polisystems.ch for a server in Germany, Nuremberg
+ntp1.polisystems.ch for servers in Germany
 
-ntp2.polisystesms.ch for a server in Switzerland, Geneva
+ntp2.polisystems.ch for servers in Switzerland
 
 All our machines are synced with different Atomic clock around Switzerland and Germany.  
 Finnaly press “Update now” and OK.

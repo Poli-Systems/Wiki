@@ -10,5 +10,5 @@ Feel free to make pull requests to this repo.
 
 The wiki will be automatically updated every night at 2AM EU/Zurich.
 
-Copyright [2021] [Poli Systems GmbH]
+Copyright [Poli Systems GmbH]
 On all the files of this repository.

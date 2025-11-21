@@ -1,0 +1,46 @@
+site_name: Wiki Poli Systems
+site_url: https://wiki.polisystems.ch/
+theme:
+  name: material
+  custom_dir: overrides
+  logo: https://cdn.polisystems.ch/assets/images/logo/logo-only.png
+  favicon: https://cdn.polisystems.ch/assets/images/favicon.png
+  palette:
+    accent: cyan
+    scheme: slate
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.top
+    - toc.integrate
+    - navigation.instant
+
+extra:
+  homepage: https://wiki.polisystems.ch/
+  alternate:
+
+    # Switch to English
+    - name: English
+      link: https://wiki.polisystems.ch/English/
+      lang: en
+
+    # Switch to French
+    - name: Français
+      link: https://wiki.polisystems.ch/Francais/
+      lang: fr
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+        emoji_index: !!python/name:material.extensions.emoji.twemoji
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
+repo_url: https://github.com/Poli-Systems/Wiki
+repo_name: polisystems/wiki
+
+plugins:
+  - search
+  - bootstrap-tables
+  - redirects:
+      redirect_maps:
+          'English/Tutorials/Two-factor-authentification-on-Poli-Systems-Portal.md': 'English/Tutorials/Two-factor-authentification-on-Poli-Systems-Manager.md'
