@@ -37,3 +37,9 @@ Once the DNS records are created and propagated, you can join your Minecraft ser
 **join.poli-mine.ch**
 
 Your players will no longer need to enter a port manually.
+
+## 4. Verify the public connection
+
+A DNS lookup confirms that the records are published, but it does not confirm that the configured port answers the Minecraft protocol.
+
+After DNS propagation, check your domain with [ServerBuddy](https://serverbuddy.net/). An online result with the detected server version confirms that the public address resolves and responds to a Minecraft status request. If the domain resolves but the server appears offline, recheck the SRV target and port, the server's panel status, and its firewall rules.
